@@ -1,0 +1,63 @@
+{
+  "schema": "https://tboenig.github.io/gt-metadata/schema/2023-10-25/schema.json",
+  "title": "mygt",
+  "url": "https://github.com/bertsky/mygt",
+  "authors": [
+    {
+      "name": "Robert",
+      "surname": "Sachunsky",
+      "roles": [
+        "quality-control",
+        "support"
+      ]
+    }
+  ],
+  "description": "mydesc",
+  "project-name": "Herrnhut",
+  "project-website": "https://dhh.hypotheses.org/",
+  "language": [
+    "deu"
+  ],
+  "production-software": "OCR-D",
+  "script": [
+    "Kurrent"
+  ],
+  "script-type": "only-manuscript",
+  "time": {
+    "notBefore": "1771",
+    "notAfter": "1788"
+  },
+  "hands": {
+    "count": "more-than-3",
+    "level": "level2"
+  },
+  "license": [
+    {
+      "name": "PublicDomainMark 1.0",
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  ],
+  "gtType": "data_structure_and_text",
+  "format": "Page-XML",
+  "transcription-guidelines": "OCR-D GT Level 2, but with ℓ as Suspensionsschleife and 〚...〛 for insertion",
+  "modeltitle": "herrnhut-kurrent",
+  "modeldescription": "Kraken, Calamari 1, Tesseract",
+  "modelurl": "https://github.com/bertsky/mkn-kurrent-gt/releases/tag/v1.0.2",
+  "modelengine": "OCR-D",
+  "gtvolume": {
+    "TxtRegion": "220",
+    "TextLine": "2442",
+    "Page": "98"
+  },
+  "labelling": [
+    "content-type/corpus",
+    "platform/platform-independent",
+    "content-encoding/structured",
+    "activityDomain/computing/visual/analysisRecognition/text",
+    "activityDomain/computing/visual/analysisRecognition/ocr",
+    "activityDomain/computing/visual/analysisRecognition/layoutAnalysis",
+    "contentOfInterest/visual/text",
+    "granularity/physical/document-related/page",
+    "granularity/physical/document-related/text-line"
+  ]
+}
