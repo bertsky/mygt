@@ -32,9 +32,9 @@
       </thead>
       <tbody>
          <tr>
-            <td>2442</td>
-            <td>98</td>
-            <td>220</td>
+            <td>2605</td>
+            <td>104</td>
+            <td>231</td>
          </tr>
       </tbody>
    </table>
@@ -66,7 +66,7 @@
             <tbody>
                <tr>
                   <td>GN_1771_4_GN_A_158</td>
-                  <td>31</td>
+                  <td>42</td>
                   <td/>
                   <td/>
                   <td/>
@@ -80,8 +80,8 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>478</td>
-                  <td>17</td>
+                  <td>641</td>
+                  <td>23</td>
                </tr>
                <tr>
                   <td>GN_1788_5_GN_A_250</td>
