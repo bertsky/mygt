@@ -39,10 +39,10 @@
       <tr>
          <td class="char">
             <ul>
-               <li class="sumchar">65933</li>
-               <li class="ssl1">27249</li>
-               <li class="ssl2">9331</li>
-               <li class="ssl3">2205</li>
+               <li class="sumchar">72986</li>
+               <li class="ssl1">30304</li>
+               <li class="ssl2">10412</li>
+               <li class="ssl3">2471</li>
             </ul>
          </td>
          <td class="leveldesc">
@@ -77,9 +77,9 @@
       <tr>
          <td>
             <ul class="grid-l">
-               <li class="key15">2442</li>
-               <li class="key16">98</li>
-               <li class="key1">220</li>
+               <li class="key15">2605</li>
+               <li class="key16">104</li>
+               <li class="key1">231</li>
             </ul>
             <details>
                <summary class="infolegend">Legend</summary>
@@ -129,313 +129,313 @@
       <summary class="volume">Level Matrix Volume: mygt</summary>
       <table class="volumelevel">
          <tr title="LATIN SMALL LIGATURE FI">
-            <td class="l1" char="fi">32</td>
-            <td class="l2" char="fi">32</td>
+            <td class="l1" char="fi">34</td>
+            <td class="l2" char="fi">34</td>
             <td class="l3" char="ﬁ">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S T">
-            <td class="l1" char="st">80</td>
-            <td class="l2" char="ſt">399</td>
+            <td class="l1" char="st">81</td>
+            <td class="l2" char="ſt">453</td>
             <td class="l3" char="ﬅ">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE ST">
-            <td class="l1" char="st">80</td>
-            <td class="l2" char="st">80</td>
+            <td class="l1" char="st">81</td>
+            <td class="l2" char="st">81</td>
             <td class="l3" char="ﬆ">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH TILDE">
-            <td class="l1" char="aa">15</td>
+            <td class="l1" char="aa">18</td>
             <td class="l2" char="ã">0</td>
             <td class="l3" char="ã">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH CIRCUMFLEX">
-            <td class="l1" char="ei">1127</td>
+            <td class="l1" char="ei">1264</td>
             <td class="l2" char="î">0</td>
             <td class="l3" char="î">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER U WITH CIRCUMFLEX">
-            <td class="l1" char="au">413</td>
+            <td class="l1" char="au">451</td>
             <td class="l2" char="û">0</td>
             <td class="l3" char="û">0</td>
          </tr>
          <tr title="LATIN CAPITAL LETTER ENG">
-            <td class="l1" char="ng">341</td>
+            <td class="l1" char="ng">381</td>
             <td class="l2" char="Ŋ">0</td>
             <td class="l3" char="Ŋ">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER LONG S">
             <td class="l1" char="s">0</td>
-            <td class="l2" char="ſ">1887</td>
-            <td class="l3" char="ſ">1887</td>
+            <td class="l2" char="ſ">2106</td>
+            <td class="l3" char="ſ">2106</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE AL">
-            <td class="l1" char="al">289</td>
-            <td class="l2" char="al">289</td>
+            <td class="l1" char="al">320</td>
+            <td class="l2" char="al">320</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE AN">
-            <td class="l1" char="an">665</td>
-            <td class="l2" char="an">665</td>
+            <td class="l1" char="an">741</td>
+            <td class="l2" char="an">741</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE A SMALL CAPITAL N">
-            <td class="l1" char="an">665</td>
+            <td class="l1" char="an">741</td>
             <td class="l2" char="aɴ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE AR">
-            <td class="l1" char="ar">336</td>
-            <td class="l2" char="ar">336</td>
+            <td class="l1" char="ar">373</td>
+            <td class="l2" char="ar">373</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE CH">
-            <td class="l1" char="ch">1736</td>
-            <td class="l2" char="ch">1736</td>
+            <td class="l1" char="ch">1945</td>
+            <td class="l2" char="ch">1945</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE EY">
-            <td class="l1" char="ey">190</td>
-            <td class="l2" char="ey">190</td>
+            <td class="l1" char="ey">211</td>
+            <td class="l2" char="ey">211</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE FR">
-            <td class="l1" char="fr">42</td>
-            <td class="l2" char="fr">42</td>
+            <td class="l1" char="fr">46</td>
+            <td class="l2" char="fr">46</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE FT">
-            <td class="l1" char="ft">102</td>
-            <td class="l2" char="ft">102</td>
+            <td class="l1" char="ft">112</td>
+            <td class="l2" char="ft">112</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE F U WITH DIAERESIS">
-            <td class="l1" char="fü">76</td>
-            <td class="l2" char="fü">76</td>
+            <td class="l1" char="fü">90</td>
+            <td class="l2" char="fü">90</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LL">
-            <td class="l1" char="ll">206</td>
-            <td class="l2" char="ll">206</td>
+            <td class="l1" char="ll">229</td>
+            <td class="l2" char="ll">229</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE O R ROTUNDA">
-            <td class="l1" char="or">201</td>
+            <td class="l1" char="or">221</td>
             <td class="l2" char="oꝛ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE OC">
-            <td class="l1" char="oc">102</td>
-            <td class="l2" char="oc">102</td>
+            <td class="l1" char="oc">113</td>
+            <td class="l2" char="oc">113</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S DESCENDING T">
-            <td class="l1" char="st">80</td>
-            <td class="l2" char="ſt">399</td>
+            <td class="l1" char="st">81</td>
+            <td class="l2" char="ſt">453</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S I">
-            <td class="l1" char="si">56</td>
-            <td class="l2" char="ſi">279</td>
+            <td class="l1" char="si">58</td>
+            <td class="l2" char="ſi">309</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S CH">
-            <td class="l1" char="sch">44</td>
-            <td class="l2" char="ſch">369</td>
+            <td class="l1" char="sch">45</td>
+            <td class="l2" char="ſch">410</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE TT">
-            <td class="l1" char="tt">164</td>
-            <td class="l2" char="tt">164</td>
+            <td class="l1" char="tt">183</td>
+            <td class="l2" char="tt">183</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH OGONEK AND MACRON">
-            <td class="l1" char="en">2187</td>
+            <td class="l1" char="en">2430</td>
             <td class="l2" char="ę̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER M WITH MEDIUM-HIGH OVERLINE (ABOVE CHARACTER)">
             <td class="l1" char="m">0</td>
-            <td class="l2" char="m̅">72</td>
+            <td class="l2" char="m̅">89</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER EU WITH CIRCUMFLEX">
-            <td class="l1" char="eu">146</td>
+            <td class="l1" char="eu">161</td>
             <td class="l2" char="eu᷍">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN ENLARGED LETTER SMALL LIGATURE AA">
-            <td class="l1" char="aa">15</td>
-            <td class="l2" char="aa">15</td>
+            <td class="l1" char="aa">18</td>
+            <td class="l2" char="aa">18</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH LATIN SMALL LETTER I ABOVE">
-            <td class="l1" char="ei">1127</td>
+            <td class="l1" char="ei">1264</td>
             <td class="l2" char="eͥ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH LATIN SMALL LETTER V ABOVE">
-            <td class="l1" char="ev">11</td>
+            <td class="l1" char="ev">12</td>
             <td class="l2" char="eͮ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="ie">976</td>
+            <td class="l1" char="ie">1068</td>
             <td class="l2" char="iͤ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER J WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="je">20</td>
+            <td class="l1" char="je">22</td>
             <td class="l2" char="jͤ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER M WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="me">302</td>
+            <td class="l1" char="me">331</td>
             <td class="l2" char="mͤ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="we">262</td>
+            <td class="l1" char="we">294</td>
             <td class="l2" char="wͤ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER A ABOVE">
-            <td class="l1" char="wa">216</td>
+            <td class="l1" char="wa">247</td>
             <td class="l2" char="wͣ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER U ABOVE">
-            <td class="l1" char="wu">93</td>
+            <td class="l1" char="wu">106</td>
             <td class="l2" char="wͧ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH DIAERESIS AND MACRON">
-            <td class="l1" char="en">2187</td>
+            <td class="l1" char="en">2430</td>
             <td class="l2" char="ë̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH MACRON AND BREVE">
-            <td class="l1" char="an">665</td>
+            <td class="l1" char="an">741</td>
             <td class="l2" char="ā̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH MACRON AND BREVE">
-            <td class="l1" char="en">2187</td>
+            <td class="l1" char="en">2430</td>
             <td class="l2" char="ē̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH MACRON AND BREVE">
-            <td class="l1" char="in">1211</td>
+            <td class="l1" char="in">1354</td>
             <td class="l2" char="ī̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER O WITH MACRON AND BREVE">
-            <td class="l1" char="on">287</td>
+            <td class="l1" char="on">313</td>
             <td class="l2" char="ō̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER U WITH MACRON AND BREVE">
-            <td class="l1" char="un">488</td>
+            <td class="l1" char="un">567</td>
             <td class="l2" char="ū̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER Y WITH MACRON AND BREVE">
-            <td class="l1" char="yn">31</td>
+            <td class="l1" char="yn">43</td>
             <td class="l2" char="ȳ̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH MACRON AND ACUTE">
-            <td class="l1" char="an">665</td>
+            <td class="l1" char="an">741</td>
             <td class="l2" char="ā́">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH MACRON AND ACUTE">
-            <td class="l1" char="in">1211</td>
+            <td class="l1" char="in">1354</td>
             <td class="l2" char="ī́">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER U WITH MACRON AND ACUTE">
-            <td class="l1" char="un">488</td>
+            <td class="l1" char="un">567</td>
             <td class="l2" char="ū́">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER Y WITH MACRON AND ACUTE">
-            <td class="l1" char="yn">31</td>
+            <td class="l1" char="yn">43</td>
             <td class="l2" char="ȳ́">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE AN">
-            <td class="l1" char="an">665</td>
-            <td class="l2" char="an">665</td>
+            <td class="l1" char="an">741</td>
+            <td class="l2" char="an">741</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE AR">
-            <td class="l1" char="ar">336</td>
-            <td class="l2" char="ar">336</td>
+            <td class="l1" char="ar">373</td>
+            <td class="l2" char="ar">373</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE A SMALL CAPITAL N">
-            <td class="l1" char="an">665</td>
+            <td class="l1" char="an">741</td>
             <td class="l2" char="aɴ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="DOUBLE OBLIQUE HYPHEN">
-            <td class="l1" char="-">101</td>
-            <td class="l2" char="-">101</td>
-            <td class="l3" char="⸗">295</td>
+            <td class="l1" char="-">102</td>
+            <td class="l2" char="-">102</td>
+            <td class="l3" char="⸗">337</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE FL">
-            <td class="l1" char="fl">32</td>
-            <td class="l2" char="fl">32</td>
+            <td class="l1" char="fl">36</td>
+            <td class="l2" char="fl">36</td>
             <td class="l3" char="ﬂ">0</td>
          </tr>
          <tr title="GREEK SMALL LETTER THETA">
-            <td class="l1" char="th">126</td>
+            <td class="l1" char="th">147</td>
             <td class="l2" char="θ">0</td>
             <td class="l3" char="θ">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER AE">
-            <td class="l1" char="ae">5</td>
+            <td class="l1" char="ae">7</td>
             <td class="l2" char="æ">0</td>
             <td class="l3" char="æ">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER N WITH TILDE">
-            <td class="l1" char="nn">153</td>
+            <td class="l1" char="nn">157</td>
             <td class="l2" char="ñ">0</td>
             <td class="l3" char="ñ">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER THORN">
-            <td class="l1" char="th">126</td>
+            <td class="l1" char="th">147</td>
             <td class="l2" char="þ">0</td>
             <td class="l3" char="þ">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER AE WITH MACRON">
-            <td class="l1" char="ae">5</td>
+            <td class="l1" char="ae">7</td>
             <td class="l2" char="ǣ">0</td>
             <td class="l3" char="ǣ">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER AE WITH ACUTE">
-            <td class="l1" char="ae">5</td>
+            <td class="l1" char="ae">7</td>
             <td class="l2" char="ǽ">0</td>
             <td class="l3" char="ǽ">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE AF">
-            <td class="l1" char="af">38</td>
-            <td class="l2" char="af">38</td>
+            <td class="l1" char="af">43</td>
+            <td class="l2" char="af">43</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE AG">
-            <td class="l1" char="ag">124</td>
-            <td class="l2" char="ag">124</td>
+            <td class="l1" char="ag">137</td>
+            <td class="l2" char="ag">137</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S H">
-            <td class="l1" char="sh">14</td>
+            <td class="l1" char="sh">15</td>
             <td class="l2" char="ſh">1</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S P">
-            <td class="l1" char="sp">5</td>
-            <td class="l2" char="ſp">12</td>
+            <td class="l1" char="sp">6</td>
+            <td class="l2" char="ſp">13</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S S">
@@ -444,148 +444,183 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE TR">
-            <td class="l1" char="tr">108</td>
-            <td class="l2" char="tr">108</td>
+            <td class="l1" char="tr">116</td>
+            <td class="l2" char="tr">116</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE UE">
-            <td class="l1" char="ue">56</td>
-            <td class="l2" char="ue">56</td>
+            <td class="l1" char="ue">60</td>
+            <td class="l2" char="ue">60</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER L WITH HIGH MACRON (ABOVE CHARACTER)">
-            <td class="l1" char="ln">11</td>
+            <td class="l1" char="ln">13</td>
             <td class="l2" char="l̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER N WITH MEDIUM-HIGH MACRON (ABOVE CHARACTER)">
-            <td class="l1" char="nn">153</td>
+            <td class="l1" char="nn">157</td>
             <td class="l2" char="n̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER THORN WITH ACUTE">
-            <td class="l1" char="th">126</td>
+            <td class="l1" char="th">147</td>
             <td class="l2" char="þ́">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER AE WITH DOUBLE ACUTE">
-            <td class="l1" char="ae">5</td>
+            <td class="l1" char="ae">7</td>
             <td class="l2" char="æ̋">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER AE WITH DOT ABOVE">
-            <td class="l1" char="ae">5</td>
+            <td class="l1" char="ae">7</td>
             <td class="l2" char="æ̇">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER AE WITH DOT BELOW">
-            <td class="l1" char="ae">5</td>
+            <td class="l1" char="ae">7</td>
             <td class="l2" char="æ̣">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER THORN WITH DOT BELOW">
-            <td class="l1" char="th">126</td>
+            <td class="l1" char="th">147</td>
             <td class="l2" char="þ̣">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER AE WITH DIAERESIS">
-            <td class="l1" char="ae">5</td>
+            <td class="l1" char="ae">7</td>
             <td class="l2" char="æ̈">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER AE WITH CURL">
-            <td class="l1" char="ae">5</td>
+            <td class="l1" char="ae">7</td>
             <td class="l2" char="æ᷎">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER AE WITH OGONEK">
-            <td class="l1" char="ae">5</td>
+            <td class="l1" char="ae">7</td>
             <td class="l2" char="æ̨">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER AE WITH BREVE">
-            <td class="l1" char="ae">5</td>
+            <td class="l1" char="ae">7</td>
             <td class="l2" char="æ̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER AE WITH RING ABOVE">
-            <td class="l1" char="ae">5</td>
+            <td class="l1" char="ae">7</td>
             <td class="l2" char="æ̊">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN ENLARGED LETTER SMALL LIGATURE AE">
-            <td class="l1" char="ae">5</td>
-            <td class="l2" char="ae">5</td>
+            <td class="l1" char="ae">7</td>
+            <td class="l2" char="ae">7</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN ENLARGED LETTER SMALL LIGATURE AO">
-            <td class="l1" char="ae">5</td>
-            <td class="l2" char="ae">5</td>
+            <td class="l1" char="ae">7</td>
+            <td class="l2" char="ae">7</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH LATIN SMALL LETTER O ABOVE">
-            <td class="l1" char="io">28</td>
+            <td class="l1" char="io">29</td>
             <td class="l2" char="iͦ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN CAPITAL LETTER W WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="We">34</td>
+            <td class="l1" char="We">40</td>
             <td class="l2" char="Wͤ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER O ABOVE">
-            <td class="l1" char="wo">126</td>
+            <td class="l1" char="wo">134</td>
             <td class="l2" char="wͦ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER Y WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="ye">21</td>
+            <td class="l1" char="ye">23</td>
             <td class="l2" char="yͤ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER AE WITH DOT ABOVE AND ACUTE">
-            <td class="l1" char="ae">5</td>
+            <td class="l1" char="ae">7</td>
             <td class="l2" char="æ̇́">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER AE WITH OGONEK AND ACUTE">
-            <td class="l1" char="ae">5</td>
+            <td class="l1" char="ae">7</td>
             <td class="l2" char="ǽ̨">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE H AND LONG S">
-            <td class="l1" char="hs">19</td>
-            <td class="l2" char="hſ">14</td>
+            <td class="l1" char="hs">20</td>
+            <td class="l2" char="hſ">17</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="RUNIC LETTER ETH">
-            <td class="l1" char="th">126</td>
+            <td class="l1" char="th">147</td>
             <td class="l2" char="ᚧ">0</td>
             <td class="l3" char="ᚧ">0</td>
          </tr>
          <tr title="RUNIC LETTER THURISAZ THURS THORN">
-            <td class="l1" char="th">126</td>
+            <td class="l1" char="th">147</td>
             <td class="l2" char="ᚦ">0</td>
             <td class="l3" char="ᚦ">0</td>
          </tr>
+         <tr title="RIGHT SINGLE QUOTATION MARK">
+            <td class="l1" char="'">0</td>
+            <td class="l2" char="’">14</td>
+            <td class="l3" char="’">14</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE CK">
+            <td class="l1" char="ck">111</td>
+            <td class="l2" char="ck">111</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S TI">
+            <td class="l1" char="sti">5</td>
+            <td class="l2" char="ſti">35</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S U WITH DIAERESIS">
+            <td class="l1" char="sü">1</td>
+            <td class="l2" char="ſü">7</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER A WITH MACRON AND BREVE">
+            <td class="l1" char="An">43</td>
+            <td class="l2" char="Ā̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND BREVE">
+            <td class="l1" char="Un">54</td>
+            <td class="l2" char="Ū̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER A WITH MACRON AND ACUTE">
+            <td class="l1" char="An">43</td>
+            <td class="l2" char="Ā́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND ACUTE">
+            <td class="l1" char="Un">54</td>
+            <td class="l2" char="Ū́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="GREEK CAPITAL LETTER THETA">
-            <td class="l1" char="Th">17</td>
+            <td class="l1" char="Th">20</td>
             <td class="l2" char="Θ">0</td>
             <td class="l3" char="Θ">0</td>
          </tr>
          <tr title="LATIN CAPITAL LETTER THORN">
-            <td class="l1" char="Th">17</td>
+            <td class="l1" char="Th">20</td>
             <td class="l2" char="Þ">0</td>
             <td class="l3" char="Þ">0</td>
          </tr>
-         <tr title="LATIN SMALL LIGATURE CK">
-            <td class="l1" char="ck">96</td>
-            <td class="l2" char="ck">96</td>
-            <td class="l3" char="">0</td>
-         </tr>
          <tr title="LATIN SMALL LIGATURE GR">
-            <td class="l1" char="gr">41</td>
-            <td class="l2" char="gr">41</td>
+            <td class="l1" char="gr">45</td>
+            <td class="l2" char="gr">45</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE GO">
@@ -594,17 +629,17 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN CAPITAL LETTER J WITH HIGH MACRON (ABOVE CHARACTER)">
-            <td class="l1" char="Jn">23</td>
+            <td class="l1" char="Jn">27</td>
             <td class="l2" char="J̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER O WITH STROKE AND MACRON">
-            <td class="l1" char="ön">37</td>
+            <td class="l1" char="ön">39</td>
             <td class="l2" char="ø̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN CAPITAL LETTER THORN WITH DOT BELOW">
-            <td class="l1" char="Th">17</td>
+            <td class="l1" char="Th">20</td>
             <td class="l2" char="Þ̣">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -614,64 +649,94 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER O WITH STROKE AND MACRON AND BREVE">
-            <td class="l1" char="ön">37</td>
+            <td class="l1" char="ön">39</td>
             <td class="l2" char="ø̄̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER O WITH STROKE AND MACRON AND ACUTE">
-            <td class="l1" char="ön">37</td>
+            <td class="l1" char="ön">39</td>
             <td class="l2" char="ø̄́">0</td>
             <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER O WITH TILDE">
+            <td class="l1" char="oo">9</td>
+            <td class="l2" char="õ">0</td>
+            <td class="l3" char="õ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE A THORN">
+            <td class="l1" char="ath">17</td>
+            <td class="l2" char="aþ">0</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE GD">
             <td class="l1" char="gd">11</td>
             <td class="l2" char="gd">11</td>
             <td class="l3" char="">0</td>
          </tr>
-         <tr title="LATIN CAPITAL LETTER E WITH OGONEK AND MACRON">
-            <td class="l1" char="En">22</td>
-            <td class="l2" char="Ę̄">0</td>
-            <td class="l3" char="">0</td>
-         </tr>
-         <tr title="RIGHT SINGLE QUOTATION MARK">
-            <td class="l1" char="'">0</td>
-            <td class="l2" char="’">11</td>
-            <td class="l3" char="’">11</td>
-         </tr>
-         <tr title="LATIN SMALL LIGATURE LONG S TI">
-            <td class="l1" char="sti">5</td>
-            <td class="l2" char="ſti">29</td>
-            <td class="l3" char="">0</td>
-         </tr>
-         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND BREVE">
-            <td class="l1" char="Un">41</td>
-            <td class="l2" char="Ū̆">0</td>
-            <td class="l3" char="">0</td>
-         </tr>
-         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND ACUTE">
-            <td class="l1" char="Un">41</td>
-            <td class="l2" char="Ū́">0</td>
-            <td class="l3" char="">0</td>
-         </tr>
-         <tr title="LATIN SMALL LETTER O WITH TILDE">
-            <td class="l1" char="oo">8</td>
-            <td class="l2" char="õ">0</td>
-            <td class="l3" char="õ">0</td>
-         </tr>
-         <tr title="LATIN SMALL LIGATURE LONG S O WITH DIAERESIS">
-            <td class="l1" char="sö">2</td>
-            <td class="l2" char="ſö">4</td>
-            <td class="l3" char="">0</td>
+         <tr title="LATIN SMALL LETTER O WITH LATIN SMALL LETTER V ABOVE">
+            <td class="l1" char="ov">12</td>
+            <td class="l2" char="oͮ">0</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER O WITH LATIN SMALL LETTER O ABOVE">
-            <td class="l1" char="oo">8</td>
+            <td class="l1" char="oo">9</td>
             <td class="l2" char="oͦ">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LETTER U WITH LATIN SMALL LETTER I ABOVE">
+            <td class="l1" char="ui">4</td>
+            <td class="l2" char="uͥ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="GERMAN PENNY SIGN">
+            <td class="l1" char="Pf">11</td>
+            <td class="l2" char="₰">0</td>
+            <td class="l3" char="₰">0</td>
+         </tr>
+         <tr title="RIGHT DOUBLE QUOTATION MARK">
+            <td class="l1" char="&#34;">0</td>
+            <td class="l2" char="”">1</td>
+            <td class="l3" char="”">1</td>
+         </tr>
+         <tr title="DOUBLE LOW-9 QUOTATION MARK">
+            <td class="l1" char="&#34;">0</td>
+            <td class="l2" char="„">1</td>
+            <td class="l3" char="„">1</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S L WITH STROKE">
+            <td class="l1" char="sl">11</td>
+            <td class="l2" char="ſł̵">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S L">
+            <td class="l1" char="sl">11</td>
+            <td class="l2" char="ſl">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE TZ">
+            <td class="l1" char="tz">29</td>
+            <td class="l2" char="tz">29</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER E WITH OGONEK AND MACRON">
+            <td class="l1" char="En">23</td>
+            <td class="l2" char="Ę̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER E WITH LATIN SMALL LETTER A ABOVE">
+            <td class="l1" char="Ea">1</td>
+            <td class="l2" char="Eͣ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LIGATURE H AND LONG S WITH STROKE">
-            <td class="l1" char="hs">19</td>
+            <td class="l1" char="hs">20</td>
             <td class="l2" char="hſ̵">0</td>
             <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S O WITH DIAERESIS">
+            <td class="l1" char="sö">2</td>
+            <td class="l2" char="ſö">5</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER HV">
             <td class="l1" char="hv">3</td>
@@ -682,11 +747,6 @@
             <td class="l1" char="av">11</td>
             <td class="l2" char="ꜹ">0</td>
             <td class="l3" char="ꜹ">0</td>
-         </tr>
-         <tr title="LATIN SMALL LIGATURE A THORN">
-            <td class="l1" char="ath">15</td>
-            <td class="l2" char="aþ">0</td>
-            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH LATIN SMALL LETTER V ABOVE">
             <td class="l1" char="av">11</td>
@@ -718,35 +778,15 @@
             <td class="l2" char="oe">2</td>
             <td class="l3" char="">0</td>
          </tr>
-         <tr title="LATIN SMALL LETTER U WITH LATIN SMALL LETTER I ABOVE">
-            <td class="l1" char="ui">3</td>
-            <td class="l2" char="uͥ">0</td>
-            <td class="l3" char="">0</td>
-         </tr>
-         <tr title="LATIN CAPITAL LETTER A WITH MACRON AND BREVE">
-            <td class="l1" char="An">40</td>
-            <td class="l2" char="Ā̆">0</td>
-            <td class="l3" char="">0</td>
-         </tr>
-         <tr title="LATIN CAPITAL LETTER A WITH MACRON AND ACUTE">
-            <td class="l1" char="An">40</td>
-            <td class="l2" char="Ā́">0</td>
-            <td class="l3" char="">0</td>
-         </tr>
          <tr title="LATIN SMALL LIGATURE FF">
-            <td class="l1" char="ff">19</td>
-            <td class="l2" char="ff">19</td>
+            <td class="l1" char="ff">21</td>
+            <td class="l2" char="ff">21</td>
             <td class="l3" char="ﬀ">0</td>
          </tr>
-         <tr title="GERMAN PENNY SIGN">
-            <td class="l1" char="Pf">9</td>
-            <td class="l2" char="₰">0</td>
-            <td class="l3" char="₰">0</td>
-         </tr>
-         <tr title="LATIN SMALL LIGATURE TZ">
-            <td class="l1" char="tz">24</td>
-            <td class="l2" char="tz">24</td>
-            <td class="l3" char="">0</td>
+         <tr title="LATIN SMALL LIGATURE LONG S K">
+            <td class="l1" char="sk">7</td>
+            <td class="l2" char="ſk">0</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER EA WITH CIRCUMFLEX">
             <td class="l1" char="ea">12</td>
@@ -763,6 +803,21 @@
             <td class="l2" char="‘">6</td>
             <td class="l3" char="‘">6</td>
          </tr>
+         <tr title="LATIN SMALL LETTER AY">
+            <td class="l1" char="ay">9</td>
+            <td class="l2" char="ꜽ">0</td>
+            <td class="l3" char="ꜽ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AP">
+            <td class="l1" char="ap">3</td>
+            <td class="l2" char="ap">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH LATIN SMALL LETTER A ABOVE">
+            <td class="l1" char="ua">3</td>
+            <td class="l2" char="uͣ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LIGATURE F A WITH DIAERESIS">
             <td class="l1" char="fä">6</td>
             <td class="l2" char="fä">6</td>
@@ -773,70 +828,55 @@
             <td class="l2" char="ſä">3</td>
             <td class="l3" char="">0</td>
          </tr>
-         <tr title="LATIN SMALL LIGATURE LONG S U WITH DIAERESIS">
-            <td class="l1" char="sü">1</td>
-            <td class="l2" char="ſü">5</td>
-            <td class="l3" char="">0</td>
-         </tr>
-         <tr title="LATIN SMALL LETTER AY">
-            <td class="l1" char="ay">7</td>
-            <td class="l2" char="ꜽ">0</td>
-            <td class="l3" char="ꜽ">0</td>
-         </tr>
-         <tr title="LATIN SMALL LETTER U WITH LATIN SMALL LETTER A ABOVE">
-            <td class="l1" char="ua">2</td>
-            <td class="l2" char="uͣ">0</td>
-            <td class="l3" char="">0</td>
-         </tr>
          <tr title="LEFTWARDS ARROW">
-            <td class="l1" char="-">128</td>
+            <td class="l1" char="-">133</td>
             <td class="l2" char="←">0</td>
             <td class="l3" char="←">0</td>
          </tr>
          <tr title="RIGHTWARDS ARROW">
-            <td class="l1" char="-">128</td>
+            <td class="l1" char="-">133</td>
             <td class="l2" char="→">0</td>
             <td class="l3" char="→">0</td>
          </tr>
          <tr title="HYPHEN">
-            <td class="l1" char="-">128</td>
+            <td class="l1" char="-">133</td>
             <td class="l2" char="‐">0</td>
             <td class="l3" char="‐">0</td>
          </tr>
          <tr title="NON-BREAKING HYPHEN">
-            <td class="l1" char="-">128</td>
+            <td class="l1" char="-">133</td>
             <td class="l2" char="‑">0</td>
             <td class="l3" char="‑">0</td>
          </tr>
          <tr title="FIGURE DASH">
-            <td class="l1" char="-">128</td>
+            <td class="l1" char="-">133</td>
             <td class="l2" char="‒">0</td>
             <td class="l3" char="‒">0</td>
          </tr>
          <tr title="EN DASH">
-            <td class="l1" char="-">124</td>
+            <td class="l1" char="-">129</td>
             <td class="l2" char="–">5</td>
             <td class="l3" char="–">5</td>
          </tr>
+         <tr title="LATIN SMALL LIGATURE BB">
+            <td class="l1" char="bb">3</td>
+            <td class="l2" char="bb">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S LONG S">
+            <td class="l1" char="ss">5</td>
+            <td class="l2" char="ſſ">63</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="SUPERSCRIPT MINUS">
-            <td class="l1" char="-">128</td>
+            <td class="l1" char="-">133</td>
             <td class="l2" char="⁻">0</td>
             <td class="l3" char="⁻">0</td>
          </tr>
          <tr title="DOUBLE HYPHEN">
-            <td class="l1" char="-">128</td>
+            <td class="l1" char="-">133</td>
             <td class="l2" char="⹀">0</td>
             <td class="l3" char="⹀">0</td>
-         </tr>
-         <tr title="LATIN SMALL LIGATURE LONG S LONG S">
-            <td class="l1" char="ss">5</td>
-            <td class="l2" char="ſſ">57</td>
-            <td class="l3" char="">0</td>
-         </tr>
-         <tr title="LATIN SMALL LIGATURE LONG S K">
-            <td class="l1" char="sk">6</td>
-            <td class="l2" char="ſk">0</td>
-            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S TR">
             <td class="l1" char="str">1</td>
@@ -853,16 +893,6 @@
             <td class="l2" char="fft">4</td>
             <td class="l3" char="">0</td>
          </tr>
-         <tr title="LATIN SMALL LIGATURE LONG S L WITH STROKE">
-            <td class="l1" char="sl">10</td>
-            <td class="l2" char="ſł̵">0</td>
-            <td class="l3" char="">0</td>
-         </tr>
-         <tr title="LATIN SMALL LIGATURE LONG S L">
-            <td class="l1" char="sl">10</td>
-            <td class="l2" char="ſl">0</td>
-            <td class="l3" char="">0</td>
-         </tr>
          <tr title="LATIN SMALL LETTER W WITH MACRON">
             <td class="l1" char="wn">1</td>
             <td class="l2" char="w̄">0</td>
@@ -877,11 +907,6 @@
             <td class="l1" char="ths">5</td>
             <td class="l2" char="þſ">0</td>
             <td class="l3" char="">0</td>
-         </tr>
-         <tr title="LATIN SMALL LETTER O WITH LATIN SMALL LETTER V ABOVE">
-            <td class="l1" char="ov">11</td>
-            <td class="l2" char="oͮ">0</td>
-            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE PP">
             <td class="l1" char="pp">2</td>
@@ -913,19 +938,14 @@
             <td class="l2" char="Ī́">0</td>
             <td class="l3" char="">0</td>
          </tr>
-         <tr title="LATIN SMALL LIGATURE AP">
-            <td class="l1" char="ap">2</td>
-            <td class="l2" char="ap">2</td>
-            <td class="l3" char="">0</td>
-         </tr>
          <tr title="LATIN SMALL LIGATURE LONG S INSULAR V">
             <td class="l1" char="sv">3</td>
             <td class="l2" char="ſv">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE CT">
-            <td class="l1" char="ct">7</td>
-            <td class="l2" char="ct">7</td>
+            <td class="l1" char="ct">8</td>
+            <td class="l2" char="ct">8</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S LONG S I">
@@ -934,7 +954,7 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH LATIN SMALL LETTER V ABOVE">
-            <td class="l1" char="iv">6</td>
+            <td class="l1" char="iv">7</td>
             <td class="l2" char="iͮ">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -942,11 +962,6 @@
             <td class="l1" char="bg">6</td>
             <td class="l2" char="bg">6</td>
             <td class="l3" char="">0</td>
-         </tr>
-         <tr title="LATIN SMALL LIGATURE BB">
-            <td class="l1" char="bb">2</td>
-            <td class="l2" char="bb">2</td>
-            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE TY">
             <td class="l1" char="ty">1</td>
@@ -1736,6 +1751,346 @@
       </table>
    </details>
    <details>
+      <summary>Level Matrix Page: 00000550.xml</summary>
+      <table class="pagelevel">
+         <tr>
+            <td class="dname" colspan="2">00000550.xml</td>
+         </tr>
+         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">688</li>
+                  <li class="sl1">281</li>
+                  <li class="sl2">126</li>
+                  <li class="sl3">39</li>
+               </ul>
+            </td>
+            <td class="leveldesc" colspan="3">
+               <button type="button"
+                       class="bilanguage"
+                       onclick="changeLanguage()"
+                       data-en="Deutsch"
+                       data-de="English"> </button>
+               <p class="bilanguage"
+                  data-de="Transkription entspricht dem Level 1"
+                  data-en="Transcription corresponds to level 1"/>
+               <span class="level">1</span>
+               <ul>
+                  <li>
+                     <a href="https://ocr-d.de/en/gt-guidelines/trans/trGrundsaetze.html">
+                        <span class="bilanguage"
+                              data-de="Allgemeines zu den Transkriptionslevel"
+                              data-en="General explanation of the ground truth levels"/>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://ocr-d.de/en/gt-guidelines/trans/tr_level_1_4.html">
+                        <span class="bilanguage"
+                              data-de="Wie wird im Level 1 transkribiert."
+                              data-en="How to transcribe in Level 1."/>
+                     </a>
+                  </li>
+               </ul>
+            </td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S T">
+            <td class="l1" char="st">0</td>
+            <td class="l2" char="ſt">16</td>
+            <td class="l3" char="ﬅ">0</td>
+         </tr>
+         <tr title="RIGHT SINGLE QUOTATION MARK">
+            <td class="l1" char="'">0</td>
+            <td class="l2" char="’">1</td>
+            <td class="l3" char="’">1</td>
+         </tr>
+         <tr title="GREEK SMALL LETTER THETA">
+            <td class="l1" char="th">1</td>
+            <td class="l2" char="θ">0</td>
+            <td class="l3" char="θ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH CIRCUMFLEX">
+            <td class="l1" char="ei">13</td>
+            <td class="l2" char="î">0</td>
+            <td class="l3" char="î">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER N WITH TILDE">
+            <td class="l1" char="nn">1</td>
+            <td class="l2" char="ñ">0</td>
+            <td class="l3" char="ñ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH CIRCUMFLEX">
+            <td class="l1" char="au">4</td>
+            <td class="l2" char="û">0</td>
+            <td class="l3" char="û">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN">
+            <td class="l1" char="th">1</td>
+            <td class="l2" char="þ">0</td>
+            <td class="l3" char="þ">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER ENG">
+            <td class="l1" char="ng">4</td>
+            <td class="l2" char="Ŋ">0</td>
+            <td class="l3" char="Ŋ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER LONG S">
+            <td class="l1" char="s">0</td>
+            <td class="l2" char="ſ">29</td>
+            <td class="l3" char="ſ">29</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AG">
+            <td class="l1" char="ag">1</td>
+            <td class="l2" char="ag">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AN">
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="an">9</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE A SMALL CAPITAL N">
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="aɴ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">1</td>
+            <td class="l2" char="ar">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE CK">
+            <td class="l1" char="ck">2</td>
+            <td class="l2" char="ck">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE CH">
+            <td class="l1" char="ch">14</td>
+            <td class="l2" char="ch">14</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE FR">
+            <td class="l1" char="fr">1</td>
+            <td class="l2" char="fr">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE FT">
+            <td class="l1" char="ft">1</td>
+            <td class="l2" char="ft">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE F U WITH DIAERESIS">
+            <td class="l1" char="fü">3</td>
+            <td class="l2" char="fü">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE O R ROTUNDA">
+            <td class="l1" char="or">1</td>
+            <td class="l2" char="oꝛ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S DESCENDING T">
+            <td class="l1" char="st">0</td>
+            <td class="l2" char="ſt">16</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S I">
+            <td class="l1" char="si">0</td>
+            <td class="l2" char="ſi">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S TI">
+            <td class="l1" char="sti">0</td>
+            <td class="l2" char="ſti">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S U WITH DIAERESIS">
+            <td class="l1" char="sü">0</td>
+            <td class="l2" char="ſü">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S CH">
+            <td class="l1" char="sch">0</td>
+            <td class="l2" char="ſch">5</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE TR">
+            <td class="l1" char="tr">2</td>
+            <td class="l2" char="tr">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE TT">
+            <td class="l1" char="tt">3</td>
+            <td class="l2" char="tt">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE UE">
+            <td class="l1" char="ue">2</td>
+            <td class="l2" char="ue">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH OGONEK AND MACRON">
+            <td class="l1" char="en">21</td>
+            <td class="l2" char="ę̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER M WITH MEDIUM-HIGH OVERLINE (ABOVE CHARACTER)">
+            <td class="l1" char="m">0</td>
+            <td class="l2" char="m̅">5</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER N WITH MEDIUM-HIGH MACRON (ABOVE CHARACTER)">
+            <td class="l1" char="nn">1</td>
+            <td class="l2" char="n̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH ACUTE">
+            <td class="l1" char="th">1</td>
+            <td class="l2" char="þ́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH DOT BELOW">
+            <td class="l1" char="th">1</td>
+            <td class="l2" char="þ̣">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER EU WITH CIRCUMFLEX">
+            <td class="l1" char="eu">3</td>
+            <td class="l2" char="eu᷍">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH LATIN SMALL LETTER I ABOVE">
+            <td class="l1" char="ei">13</td>
+            <td class="l2" char="eͥ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH LATIN SMALL LETTER V ABOVE">
+            <td class="l1" char="ev">1</td>
+            <td class="l2" char="eͮ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="ie">8</td>
+            <td class="l2" char="iͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER M WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="me">3</td>
+            <td class="l2" char="mͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="we">1</td>
+            <td class="l2" char="wͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER O ABOVE">
+            <td class="l1" char="wo">1</td>
+            <td class="l2" char="wͦ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER A ABOVE">
+            <td class="l1" char="wa">2</td>
+            <td class="l2" char="wͣ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH DIAERESIS AND MACRON">
+            <td class="l1" char="en">21</td>
+            <td class="l2" char="ë̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER A WITH MACRON AND BREVE">
+            <td class="l1" char="An">1</td>
+            <td class="l2" char="Ā̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER A WITH MACRON AND BREVE">
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="ā̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH MACRON AND BREVE">
+            <td class="l1" char="en">21</td>
+            <td class="l2" char="ē̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH MACRON AND BREVE">
+            <td class="l1" char="in">19</td>
+            <td class="l2" char="ī̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER O WITH MACRON AND BREVE">
+            <td class="l1" char="on">3</td>
+            <td class="l2" char="ō̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND BREVE">
+            <td class="l1" char="Un">6</td>
+            <td class="l2" char="Ū̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH MACRON AND BREVE">
+            <td class="l1" char="un">8</td>
+            <td class="l2" char="ū̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER A WITH MACRON AND ACUTE">
+            <td class="l1" char="An">1</td>
+            <td class="l2" char="Ā́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER A WITH MACRON AND ACUTE">
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="ā́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH MACRON AND ACUTE">
+            <td class="l1" char="in">19</td>
+            <td class="l2" char="ī́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND ACUTE">
+            <td class="l1" char="Un">6</td>
+            <td class="l2" char="Ū́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH MACRON AND ACUTE">
+            <td class="l1" char="un">8</td>
+            <td class="l2" char="ū́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE AN">
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="an">9</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">1</td>
+            <td class="l2" char="ar">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE A SMALL CAPITAL N">
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="aɴ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="RUNIC LETTER ETH">
+            <td class="l1" char="th">1</td>
+            <td class="l2" char="ᚧ">0</td>
+            <td class="l3" char="ᚧ">0</td>
+         </tr>
+         <tr title="RUNIC LETTER THURISAZ THURS THORN">
+            <td class="l1" char="th">1</td>
+            <td class="l2" char="ᚦ">0</td>
+            <td class="l3" char="ᚦ">0</td>
+         </tr>
+         <tr title="DOUBLE OBLIQUE HYPHEN">
+            <td class="l1" char="-">0</td>
+            <td class="l2" char="-">0</td>
+            <td class="l3" char="⸗">9</td>
+         </tr>
+      </table>
+   </details>
+   <details>
       <summary>Level Matrix Page: 00000534.xml</summary>
       <table class="pagelevel">
          <tr>
@@ -2159,10 +2514,10 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">99</li>
-                  <li class="sl1">45</li>
-                  <li class="sl2">14</li>
-                  <li class="sl3">2</li>
+                  <li class="sumchar">842</li>
+                  <li class="sl1">369</li>
+                  <li class="sl2">105</li>
+                  <li class="sl3">28</li>
                </ul>
             </td>
             <td class="leveldesc" colspan="3">
@@ -2195,7 +2550,7 @@
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S T">
             <td class="l1" char="st">1</td>
-            <td class="l2" char="ſt">1</td>
+            <td class="l2" char="ſt">3</td>
             <td class="l3" char="ﬅ">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE ST">
@@ -2203,35 +2558,505 @@
             <td class="l2" char="st">1</td>
             <td class="l3" char="ﬆ">0</td>
          </tr>
+         <tr title="GREEK SMALL LETTER THETA">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="θ">0</td>
+            <td class="l3" char="θ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ">0</td>
+            <td class="l3" char="æ">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER I WITH CIRCUMFLEX">
-            <td class="l1" char="ei">2</td>
+            <td class="l1" char="ei">20</td>
             <td class="l2" char="î">0</td>
             <td class="l3" char="î">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER N WITH TILDE">
-            <td class="l1" char="nn">1</td>
+            <td class="l1" char="nn">2</td>
             <td class="l2" char="ñ">0</td>
             <td class="l3" char="ñ">0</td>
          </tr>
+         <tr title="LATIN SMALL LETTER O WITH TILDE">
+            <td class="l1" char="oo">1</td>
+            <td class="l2" char="õ">0</td>
+            <td class="l3" char="õ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH CIRCUMFLEX">
+            <td class="l1" char="au">4</td>
+            <td class="l2" char="û">0</td>
+            <td class="l3" char="û">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="þ">0</td>
+            <td class="l3" char="þ">0</td>
+         </tr>
          <tr title="LATIN CAPITAL LETTER ENG">
-            <td class="l1" char="ng">1</td>
+            <td class="l1" char="ng">6</td>
             <td class="l2" char="Ŋ">0</td>
             <td class="l3" char="Ŋ">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER LONG S">
             <td class="l1" char="s">0</td>
-            <td class="l2" char="ſ">2</td>
-            <td class="l3" char="ſ">2</td>
+            <td class="l2" char="ſ">21</td>
+            <td class="l3" char="ſ">21</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH MACRON">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="ǣ">0</td>
+            <td class="l3" char="ǣ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH ACUTE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="ǽ">0</td>
+            <td class="l3" char="ǽ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AF">
+            <td class="l1" char="af">1</td>
+            <td class="l2" char="af">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AG">
+            <td class="l1" char="ag">3</td>
+            <td class="l2" char="ag">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AL">
+            <td class="l1" char="al">7</td>
+            <td class="l2" char="al">7</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE AN">
-            <td class="l1" char="an">2</td>
-            <td class="l2" char="an">2</td>
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="an">9</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE A SMALL CAPITAL N">
-            <td class="l1" char="an">2</td>
+            <td class="l1" char="an">9</td>
             <td class="l2" char="aɴ">0</td>
             <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">2</td>
+            <td class="l2" char="ar">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE A THORN">
+            <td class="l1" char="ath">1</td>
+            <td class="l2" char="aþ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE CK">
+            <td class="l1" char="ck">3</td>
+            <td class="l2" char="ck">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE CH">
+            <td class="l1" char="ch">22</td>
+            <td class="l2" char="ch">22</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE EY">
+            <td class="l1" char="ey">1</td>
+            <td class="l2" char="ey">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE FR">
+            <td class="l1" char="fr">1</td>
+            <td class="l2" char="fr">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE FT">
+            <td class="l1" char="ft">1</td>
+            <td class="l2" char="ft">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE F U WITH DIAERESIS">
+            <td class="l1" char="fü">2</td>
+            <td class="l2" char="fü">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE GD">
+            <td class="l1" char="gd">1</td>
+            <td class="l2" char="gd">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LL">
+            <td class="l1" char="ll">3</td>
+            <td class="l2" char="ll">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE O R ROTUNDA">
+            <td class="l1" char="or">3</td>
+            <td class="l2" char="oꝛ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE OC">
+            <td class="l1" char="oc">1</td>
+            <td class="l2" char="oc">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S DESCENDING T">
+            <td class="l1" char="st">1</td>
+            <td class="l2" char="ſt">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S I">
+            <td class="l1" char="si">2</td>
+            <td class="l2" char="ſi">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S CH">
+            <td class="l1" char="sch">0</td>
+            <td class="l2" char="ſch">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE TR">
+            <td class="l1" char="tr">1</td>
+            <td class="l2" char="tr">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE TT">
+            <td class="l1" char="tt">2</td>
+            <td class="l2" char="tt">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE UE">
+            <td class="l1" char="ue">1</td>
+            <td class="l2" char="ue">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH OGONEK AND MACRON">
+            <td class="l1" char="en">20</td>
+            <td class="l2" char="ę̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER L WITH HIGH MACRON (ABOVE CHARACTER)">
+            <td class="l1" char="ln">1</td>
+            <td class="l2" char="l̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER N WITH MEDIUM-HIGH MACRON (ABOVE CHARACTER)">
+            <td class="l1" char="nn">2</td>
+            <td class="l2" char="n̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH ACUTE">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="þ́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH DOUBLE ACUTE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ̋">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH DOT ABOVE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ̇">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH DOT BELOW">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ̣">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH DOT BELOW">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="þ̣">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH DIAERESIS">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ̈">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH CURL">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ᷎">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH OGONEK">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ̨">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH BREVE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER EU WITH CIRCUMFLEX">
+            <td class="l1" char="eu">4</td>
+            <td class="l2" char="eu᷍">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH RING ABOVE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ̊">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN ENLARGED LETTER SMALL LIGATURE AE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="ae">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN ENLARGED LETTER SMALL LIGATURE AO">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="ae">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH LATIN SMALL LETTER I ABOVE">
+            <td class="l1" char="ei">20</td>
+            <td class="l2" char="eͥ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="ie">5</td>
+            <td class="l2" char="iͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER M WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="me">3</td>
+            <td class="l2" char="mͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER O WITH LATIN SMALL LETTER V ABOVE">
+            <td class="l1" char="ov">1</td>
+            <td class="l2" char="oͮ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER O WITH LATIN SMALL LETTER O ABOVE">
+            <td class="l1" char="oo">1</td>
+            <td class="l2" char="oͦ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH LATIN SMALL LETTER I ABOVE">
+            <td class="l1" char="ui">1</td>
+            <td class="l2" char="uͥ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="we">6</td>
+            <td class="l2" char="wͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER A ABOVE">
+            <td class="l1" char="wa">3</td>
+            <td class="l2" char="wͣ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER U ABOVE">
+            <td class="l1" char="wu">2</td>
+            <td class="l2" char="wͧ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH DOT ABOVE AND ACUTE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ̇́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH OGONEK AND ACUTE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="ǽ̨">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH DIAERESIS AND MACRON">
+            <td class="l1" char="en">20</td>
+            <td class="l2" char="ë̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER A WITH MACRON AND BREVE">
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="ā̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH MACRON AND BREVE">
+            <td class="l1" char="en">20</td>
+            <td class="l2" char="ē̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH MACRON AND BREVE">
+            <td class="l1" char="in">23</td>
+            <td class="l2" char="ī̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER O WITH MACRON AND BREVE">
+            <td class="l1" char="on">3</td>
+            <td class="l2" char="ō̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND BREVE">
+            <td class="l1" char="Un">1</td>
+            <td class="l2" char="Ū̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH MACRON AND BREVE">
+            <td class="l1" char="un">16</td>
+            <td class="l2" char="ū̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER A WITH MACRON AND ACUTE">
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="ā́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH MACRON AND ACUTE">
+            <td class="l1" char="in">23</td>
+            <td class="l2" char="ī́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND ACUTE">
+            <td class="l1" char="Un">1</td>
+            <td class="l2" char="Ū́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH MACRON AND ACUTE">
+            <td class="l1" char="un">16</td>
+            <td class="l2" char="ū́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE AN">
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="an">9</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">2</td>
+            <td class="l2" char="ar">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE A SMALL CAPITAL N">
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="aɴ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="RUNIC LETTER ETH">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="ᚧ">0</td>
+            <td class="l3" char="ᚧ">0</td>
+         </tr>
+         <tr title="RUNIC LETTER THURISAZ THURS THORN">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="ᚦ">0</td>
+            <td class="l3" char="ᚦ">0</td>
+         </tr>
+         <tr title="DOUBLE OBLIQUE HYPHEN">
+            <td class="l1" char="-">0</td>
+            <td class="l2" char="-">0</td>
+            <td class="l3" char="⸗">7</td>
+         </tr>
+      </table>
+   </details>
+   <details>
+      <summary>Level Matrix Page: 00000533.xml</summary>
+      <table class="pagelevel">
+         <tr>
+            <td class="dname" colspan="2">00000533.xml</td>
+         </tr>
+         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">801</li>
+                  <li class="sl1">317</li>
+                  <li class="sl2">112</li>
+                  <li class="sl3">28</li>
+               </ul>
+            </td>
+            <td class="leveldesc" colspan="3">
+               <button type="button"
+                       class="bilanguage"
+                       onclick="changeLanguage()"
+                       data-en="Deutsch"
+                       data-de="English"> </button>
+               <p class="bilanguage"
+                  data-de="Transkription entspricht dem Level 1"
+                  data-en="Transcription corresponds to level 1"/>
+               <span class="level">1</span>
+               <ul>
+                  <li>
+                     <a href="https://ocr-d.de/en/gt-guidelines/trans/trGrundsaetze.html">
+                        <span class="bilanguage"
+                              data-de="Allgemeines zu den Transkriptionslevel"
+                              data-en="General explanation of the ground truth levels"/>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://ocr-d.de/en/gt-guidelines/trans/tr_level_1_4.html">
+                        <span class="bilanguage"
+                              data-de="Wie wird im Level 1 transkribiert."
+                              data-en="How to transcribe in Level 1."/>
+                     </a>
+                  </li>
+               </ul>
+            </td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S T">
+            <td class="l1" char="st">0</td>
+            <td class="l2" char="ſt">4</td>
+            <td class="l3" char="ﬅ">0</td>
+         </tr>
+         <tr title="GERMAN PENNY SIGN">
+            <td class="l1" char="Pf">1</td>
+            <td class="l2" char="₰">0</td>
+            <td class="l3" char="₰">0</td>
+         </tr>
+         <tr title="RIGHT DOUBLE QUOTATION MARK">
+            <td class="l1" char="&#34;">0</td>
+            <td class="l2" char="”">1</td>
+            <td class="l3" char="”">1</td>
+         </tr>
+         <tr title="GREEK SMALL LETTER THETA">
+            <td class="l1" char="th">1</td>
+            <td class="l2" char="θ">0</td>
+            <td class="l3" char="θ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH CIRCUMFLEX">
+            <td class="l1" char="ei">16</td>
+            <td class="l2" char="î">0</td>
+            <td class="l3" char="î">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH CIRCUMFLEX">
+            <td class="l1" char="au">7</td>
+            <td class="l2" char="û">0</td>
+            <td class="l3" char="û">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN">
+            <td class="l1" char="th">1</td>
+            <td class="l2" char="þ">0</td>
+            <td class="l3" char="þ">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER ENG">
+            <td class="l1" char="ng">3</td>
+            <td class="l2" char="Ŋ">0</td>
+            <td class="l3" char="Ŋ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER LONG S">
+            <td class="l1" char="s">0</td>
+            <td class="l2" char="ſ">23</td>
+            <td class="l3" char="ſ">23</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AL">
+            <td class="l1" char="al">3</td>
+            <td class="l2" char="al">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AN">
+            <td class="l1" char="an">4</td>
+            <td class="l2" char="an">4</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE A SMALL CAPITAL N">
+            <td class="l1" char="an">4</td>
+            <td class="l2" char="aɴ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">5</td>
+            <td class="l2" char="ar">5</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE CK">
             <td class="l1" char="ck">1</td>
@@ -2239,104 +3064,239 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE CH">
-            <td class="l1" char="ch">3</td>
-            <td class="l2" char="ch">3</td>
+            <td class="l1" char="ch">30</td>
+            <td class="l2" char="ch">30</td>
             <td class="l3" char="">0</td>
          </tr>
-         <tr title="LATIN SMALL LIGATURE GD">
-            <td class="l1" char="gd">1</td>
-            <td class="l2" char="gd">1</td>
-            <td class="l3" char="">0</td>
+         <tr title="LATIN SMALL LIGATURE EY">
+            <td class="l1" char="ey">3</td>
+            <td class="l2" char="ey">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE FR">
+            <td class="l1" char="fr">1</td>
+            <td class="l2" char="fr">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE F U WITH DIAERESIS">
+            <td class="l1" char="fü">1</td>
+            <td class="l2" char="fü">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE GR">
+            <td class="l1" char="gr">1</td>
+            <td class="l2" char="gr">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LL">
+            <td class="l1" char="ll">2</td>
+            <td class="l2" char="ll">2</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE O R ROTUNDA">
-            <td class="l1" char="or">1</td>
+            <td class="l1" char="or">2</td>
             <td class="l2" char="oꝛ">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LIGATURE OC">
+            <td class="l1" char="oc">1</td>
+            <td class="l2" char="oc">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LIGATURE LONG S DESCENDING T">
-            <td class="l1" char="st">1</td>
-            <td class="l2" char="ſt">1</td>
+            <td class="l1" char="st">0</td>
+            <td class="l2" char="ſt">4</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S I">
-            <td class="l1" char="si">1</td>
-            <td class="l2" char="ſi">0</td>
+            <td class="l1" char="si">0</td>
+            <td class="l2" char="ſi">1</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S CH">
+            <td class="l1" char="sch">1</td>
+            <td class="l2" char="ſch">8</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE TR">
+            <td class="l1" char="tr">2</td>
+            <td class="l2" char="tr">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE TT">
+            <td class="l1" char="tt">4</td>
+            <td class="l2" char="tt">4</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE UE">
+            <td class="l1" char="ue">1</td>
+            <td class="l2" char="ue">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER E WITH OGONEK AND MACRON">
-            <td class="l1" char="en">1</td>
+            <td class="l1" char="en">29</td>
             <td class="l2" char="ę̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
-         <tr title="LATIN SMALL LETTER N WITH MEDIUM-HIGH MACRON (ABOVE CHARACTER)">
-            <td class="l1" char="nn">1</td>
-            <td class="l2" char="n̄">0</td>
-            <td class="l3" char="">0</td>
+         <tr title="LATIN CAPITAL LETTER J WITH HIGH MACRON (ABOVE CHARACTER)">
+            <td class="l1" char="Jn">1</td>
+            <td class="l2" char="J̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER M WITH MEDIUM-HIGH OVERLINE (ABOVE CHARACTER)">
+            <td class="l1" char="m">0</td>
+            <td class="l2" char="m̅">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH ACUTE">
+            <td class="l1" char="th">1</td>
+            <td class="l2" char="þ́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH DOT BELOW">
+            <td class="l1" char="th">1</td>
+            <td class="l2" char="þ̣">0</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH LATIN SMALL LETTER I ABOVE">
-            <td class="l1" char="ei">2</td>
+            <td class="l1" char="ei">16</td>
             <td class="l2" char="eͥ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="ie">1</td>
+            <td class="l1" char="ie">7</td>
             <td class="l2" char="iͤ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER M WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="me">1</td>
+            <td class="l1" char="me">9</td>
             <td class="l2" char="mͤ">0</td>
             <td class="l3" char="">0</td>
          </tr>
-         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="we">2</td>
-            <td class="l2" char="wͤ">0</td>
-            <td class="l3" char="">0</td>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER O ABOVE">
+            <td class="l1" char="wo">1</td>
+            <td class="l2" char="wͦ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER A ABOVE">
+            <td class="l1" char="wa">3</td>
+            <td class="l2" char="wͣ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER U ABOVE">
+            <td class="l1" char="wu">5</td>
+            <td class="l2" char="wͧ">0</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH DIAERESIS AND MACRON">
-            <td class="l1" char="en">1</td>
+            <td class="l1" char="en">29</td>
             <td class="l2" char="ë̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN CAPITAL LETTER A WITH MACRON AND BREVE">
+            <td class="l1" char="An">1</td>
+            <td class="l2" char="Ā̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER A WITH MACRON AND BREVE">
-            <td class="l1" char="an">2</td>
+            <td class="l1" char="an">4</td>
             <td class="l2" char="ā̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH MACRON AND BREVE">
-            <td class="l1" char="en">1</td>
+            <td class="l1" char="en">29</td>
             <td class="l2" char="ē̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH MACRON AND BREVE">
-            <td class="l1" char="in">4</td>
+            <td class="l1" char="in">21</td>
             <td class="l2" char="ī̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER O WITH MACRON AND BREVE">
-            <td class="l1" char="on">1</td>
+            <td class="l1" char="on">2</td>
             <td class="l2" char="ō̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND BREVE">
+            <td class="l1" char="Un">1</td>
+            <td class="l2" char="Ū̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH MACRON AND BREVE">
+            <td class="l1" char="un">8</td>
+            <td class="l2" char="ū̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER Y WITH MACRON AND BREVE">
+            <td class="l1" char="yn">2</td>
+            <td class="l2" char="ȳ̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER A WITH MACRON AND ACUTE">
+            <td class="l1" char="An">1</td>
+            <td class="l2" char="Ā́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER A WITH MACRON AND ACUTE">
-            <td class="l1" char="an">2</td>
+            <td class="l1" char="an">4</td>
             <td class="l2" char="ā́">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH MACRON AND ACUTE">
-            <td class="l1" char="in">4</td>
+            <td class="l1" char="in">21</td>
             <td class="l2" char="ī́">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND ACUTE">
+            <td class="l1" char="Un">1</td>
+            <td class="l2" char="Ū́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH MACRON AND ACUTE">
+            <td class="l1" char="un">8</td>
+            <td class="l2" char="ū́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER Y WITH MACRON AND ACUTE">
+            <td class="l1" char="yn">2</td>
+            <td class="l2" char="ȳ́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE H AND LONG S">
+            <td class="l1" char="hs">0</td>
+            <td class="l2" char="hſ">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE AN">
-            <td class="l1" char="an">2</td>
-            <td class="l2" char="an">2</td>
+            <td class="l1" char="an">4</td>
+            <td class="l2" char="an">4</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">5</td>
+            <td class="l2" char="ar">5</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE A SMALL CAPITAL N">
-            <td class="l1" char="an">2</td>
+            <td class="l1" char="an">4</td>
             <td class="l2" char="aɴ">0</td>
             <td class="l3" char="">0</td>
+         </tr>
+         <tr title="RUNIC LETTER ETH">
+            <td class="l1" char="th">1</td>
+            <td class="l2" char="ᚧ">0</td>
+            <td class="l3" char="ᚧ">0</td>
+         </tr>
+         <tr title="RUNIC LETTER THURISAZ THURS THORN">
+            <td class="l1" char="th">1</td>
+            <td class="l2" char="ᚦ">0</td>
+            <td class="l3" char="ᚦ">0</td>
+         </tr>
+         <tr title="DOUBLE OBLIQUE HYPHEN">
+            <td class="l1" char="-">0</td>
+            <td class="l2" char="-">0</td>
+            <td class="l3" char="⸗">4</td>
          </tr>
       </table>
    </details>
@@ -2349,10 +3309,10 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">140</li>
-                  <li class="sl1">43</li>
-                  <li class="sl2">16</li>
-                  <li class="sl3">5</li>
+                  <li class="sumchar">739</li>
+                  <li class="sl1">279</li>
+                  <li class="sl2">93</li>
+                  <li class="sl3">18</li>
                </ul>
             </td>
             <td class="leveldesc" colspan="3">
@@ -2383,95 +3343,335 @@
                </ul>
             </td>
          </tr>
+         <tr title="LATIN SMALL LIGATURE FI">
+            <td class="l1" char="fi">1</td>
+            <td class="l2" char="fi">1</td>
+            <td class="l3" char="ﬁ">0</td>
+         </tr>
          <tr title="LATIN SMALL LIGATURE LONG S T">
             <td class="l1" char="st">0</td>
-            <td class="l2" char="ſt">1</td>
+            <td class="l2" char="ſt">4</td>
             <td class="l3" char="ﬅ">0</td>
          </tr>
+         <tr title="GERMAN PENNY SIGN">
+            <td class="l1" char="Pf">1</td>
+            <td class="l2" char="₰">0</td>
+            <td class="l3" char="₰">0</td>
+         </tr>
+         <tr title="DOUBLE LOW-9 QUOTATION MARK">
+            <td class="l1" char="&#34;">0</td>
+            <td class="l2" char="„">1</td>
+            <td class="l3" char="„">1</td>
+         </tr>
+         <tr title="GREEK SMALL LETTER THETA">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="θ">0</td>
+            <td class="l3" char="θ">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER I WITH CIRCUMFLEX">
-            <td class="l1" char="ei">5</td>
+            <td class="l1" char="ei">16</td>
             <td class="l2" char="î">0</td>
             <td class="l3" char="î">0</td>
          </tr>
+         <tr title="LATIN SMALL LETTER U WITH CIRCUMFLEX">
+            <td class="l1" char="au">2</td>
+            <td class="l2" char="û">0</td>
+            <td class="l3" char="û">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="þ">0</td>
+            <td class="l3" char="þ">0</td>
+         </tr>
          <tr title="LATIN CAPITAL LETTER ENG">
-            <td class="l1" char="ng">1</td>
+            <td class="l1" char="ng">2</td>
             <td class="l2" char="Ŋ">0</td>
             <td class="l3" char="Ŋ">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER LONG S">
             <td class="l1" char="s">0</td>
-            <td class="l2" char="ſ">5</td>
-            <td class="l3" char="ſ">5</td>
+            <td class="l2" char="ſ">17</td>
+            <td class="l3" char="ſ">17</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AF">
+            <td class="l1" char="af">1</td>
+            <td class="l2" char="af">1</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE AL">
-            <td class="l1" char="al">1</td>
-            <td class="l2" char="al">1</td>
+            <td class="l1" char="al">3</td>
+            <td class="l2" char="al">3</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LIGATURE AN">
+            <td class="l1" char="an">1</td>
+            <td class="l2" char="an">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE A SMALL CAPITAL N">
+            <td class="l1" char="an">1</td>
+            <td class="l2" char="aɴ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">5</td>
+            <td class="l2" char="ar">5</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LIGATURE CH">
-            <td class="l1" char="ch">5</td>
-            <td class="l2" char="ch">5</td>
+            <td class="l1" char="ch">30</td>
+            <td class="l2" char="ch">30</td>
             <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE EY">
+            <td class="l1" char="ey">2</td>
+            <td class="l2" char="ey">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE FT">
+            <td class="l1" char="ft">1</td>
+            <td class="l2" char="ft">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE F U WITH DIAERESIS">
+            <td class="l1" char="fü">1</td>
+            <td class="l2" char="fü">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LL">
+            <td class="l1" char="ll">1</td>
+            <td class="l2" char="ll">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE O R ROTUNDA">
+            <td class="l1" char="or">4</td>
+            <td class="l2" char="oꝛ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE OC">
+            <td class="l1" char="oc">1</td>
+            <td class="l2" char="oc">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S L WITH STROKE">
+            <td class="l1" char="sl">1</td>
+            <td class="l2" char="ſł̵">0</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S DESCENDING T">
             <td class="l1" char="st">0</td>
-            <td class="l2" char="ſt">1</td>
+            <td class="l2" char="ſt">4</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S I">
             <td class="l1" char="si">0</td>
-            <td class="l2" char="ſi">1</td>
+            <td class="l2" char="ſi">3</td>
             <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S L">
+            <td class="l1" char="sl">1</td>
+            <td class="l2" char="ſl">0</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S P">
             <td class="l1" char="sp">0</td>
             <td class="l2" char="ſp">1</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S TI">
+            <td class="l1" char="sti">0</td>
+            <td class="l2" char="ſti">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S CH">
+            <td class="l1" char="sch">0</td>
+            <td class="l2" char="ſch">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE TR">
+            <td class="l1" char="tr">1</td>
+            <td class="l2" char="tr">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LIGATURE TT">
-            <td class="l1" char="tt">1</td>
-            <td class="l2" char="tt">1</td>
+            <td class="l1" char="tt">2</td>
+            <td class="l2" char="tt">2</td>
             <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE TZ">
+            <td class="l1" char="tz">2</td>
+            <td class="l2" char="tz">2</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN CAPITAL LETTER E WITH OGONEK AND MACRON">
             <td class="l1" char="En">1</td>
             <td class="l2" char="Ę̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LETTER E WITH OGONEK AND MACRON">
+            <td class="l1" char="en">23</td>
+            <td class="l2" char="ę̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER M WITH MEDIUM-HIGH OVERLINE (ABOVE CHARACTER)">
+            <td class="l1" char="m">0</td>
+            <td class="l2" char="m̅">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH ACUTE">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="þ́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH DOT BELOW">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="þ̣">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER E WITH LATIN SMALL LETTER A ABOVE">
+            <td class="l1" char="Ea">1</td>
+            <td class="l2" char="Eͣ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER E WITH LATIN SMALL LETTER I ABOVE">
-            <td class="l1" char="ei">5</td>
+            <td class="l1" char="ei">16</td>
             <td class="l2" char="eͥ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="ie">2</td>
+            <td class="l1" char="ie">9</td>
             <td class="l2" char="iͤ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER M WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="me">2</td>
+            <td class="l1" char="me">5</td>
             <td class="l2" char="mͤ">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN CAPITAL LETTER W WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="We">1</td>
+            <td class="l2" char="Wͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="we">4</td>
+            <td class="l2" char="wͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER O ABOVE">
+            <td class="l1" char="wo">1</td>
+            <td class="l2" char="wͦ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER A ABOVE">
+            <td class="l1" char="wa">4</td>
+            <td class="l2" char="wͣ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER Y WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="ye">1</td>
+            <td class="l2" char="yͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH DIAERESIS AND MACRON">
+            <td class="l1" char="en">23</td>
+            <td class="l2" char="ë̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER A WITH MACRON AND BREVE">
+            <td class="l1" char="an">1</td>
+            <td class="l2" char="ā̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH MACRON AND BREVE">
+            <td class="l1" char="en">23</td>
+            <td class="l2" char="ē̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER I WITH MACRON AND BREVE">
-            <td class="l1" char="in">8</td>
+            <td class="l1" char="in">23</td>
             <td class="l2" char="ī̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LETTER O WITH MACRON AND BREVE">
+            <td class="l1" char="on">2</td>
+            <td class="l2" char="ō̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND BREVE">
+            <td class="l1" char="Un">1</td>
+            <td class="l2" char="Ū̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER U WITH MACRON AND BREVE">
-            <td class="l1" char="un">2</td>
+            <td class="l1" char="un">6</td>
             <td class="l2" char="ū̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LETTER Y WITH MACRON AND BREVE">
+            <td class="l1" char="yn">1</td>
+            <td class="l2" char="ȳ̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER A WITH MACRON AND ACUTE">
+            <td class="l1" char="an">1</td>
+            <td class="l2" char="ā́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER I WITH MACRON AND ACUTE">
-            <td class="l1" char="in">8</td>
+            <td class="l1" char="in">23</td>
             <td class="l2" char="ī́">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND ACUTE">
+            <td class="l1" char="Un">1</td>
+            <td class="l2" char="Ū́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER U WITH MACRON AND ACUTE">
-            <td class="l1" char="un">2</td>
+            <td class="l1" char="un">6</td>
             <td class="l2" char="ū́">0</td>
             <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER Y WITH MACRON AND ACUTE">
+            <td class="l1" char="yn">1</td>
+            <td class="l2" char="ȳ́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE H AND LONG S WITH STROKE">
+            <td class="l1" char="hs">1</td>
+            <td class="l2" char="hſ̵">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE H AND LONG S">
+            <td class="l1" char="hs">1</td>
+            <td class="l2" char="hſ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE AN">
+            <td class="l1" char="an">1</td>
+            <td class="l2" char="an">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">5</td>
+            <td class="l2" char="ar">5</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE A SMALL CAPITAL N">
+            <td class="l1" char="an">1</td>
+            <td class="l2" char="aɴ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="RUNIC LETTER ETH">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="ᚧ">0</td>
+            <td class="l3" char="ᚧ">0</td>
+         </tr>
+         <tr title="RUNIC LETTER THURISAZ THURS THORN">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="ᚦ">0</td>
+            <td class="l3" char="ᚦ">0</td>
          </tr>
       </table>
    </details>
@@ -4261,6 +5461,361 @@
       </table>
    </details>
    <details>
+      <summary>Level Matrix Page: 00000549.xml</summary>
+      <table class="pagelevel">
+         <tr>
+            <td class="dname" colspan="2">00000549.xml</td>
+         </tr>
+         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">699</li>
+                  <li class="sl1">322</li>
+                  <li class="sl2">119</li>
+                  <li class="sl3">24</li>
+               </ul>
+            </td>
+            <td class="leveldesc" colspan="3">
+               <button type="button"
+                       class="bilanguage"
+                       onclick="changeLanguage()"
+                       data-en="Deutsch"
+                       data-de="English"> </button>
+               <p class="bilanguage"
+                  data-de="Transkription entspricht dem Level 1"
+                  data-en="Transcription corresponds to level 1"/>
+               <span class="level">1</span>
+               <ul>
+                  <li>
+                     <a href="https://ocr-d.de/en/gt-guidelines/trans/trGrundsaetze.html">
+                        <span class="bilanguage"
+                              data-de="Allgemeines zu den Transkriptionslevel"
+                              data-en="General explanation of the ground truth levels"/>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://ocr-d.de/en/gt-guidelines/trans/tr_level_1_4.html">
+                        <span class="bilanguage"
+                              data-de="Wie wird im Level 1 transkribiert."
+                              data-en="How to transcribe in Level 1."/>
+                     </a>
+                  </li>
+               </ul>
+            </td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE FF">
+            <td class="l1" char="ff">1</td>
+            <td class="l2" char="ff">1</td>
+            <td class="l3" char="ﬀ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE FI">
+            <td class="l1" char="fi">1</td>
+            <td class="l2" char="fi">1</td>
+            <td class="l3" char="ﬁ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE FL">
+            <td class="l1" char="fl">1</td>
+            <td class="l2" char="fl">1</td>
+            <td class="l3" char="ﬂ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S T">
+            <td class="l1" char="st">0</td>
+            <td class="l2" char="ſt">9</td>
+            <td class="l3" char="ﬅ">0</td>
+         </tr>
+         <tr title="GREEK CAPITAL LETTER THETA">
+            <td class="l1" char="Th">1</td>
+            <td class="l2" char="Θ">0</td>
+            <td class="l3" char="Θ">0</td>
+         </tr>
+         <tr title="GREEK SMALL LETTER THETA">
+            <td class="l1" char="th">6</td>
+            <td class="l2" char="θ">0</td>
+            <td class="l3" char="θ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH CIRCUMFLEX">
+            <td class="l1" char="ei">17</td>
+            <td class="l2" char="î">0</td>
+            <td class="l3" char="î">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH CIRCUMFLEX">
+            <td class="l1" char="au">4</td>
+            <td class="l2" char="û">0</td>
+            <td class="l3" char="û">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER THORN">
+            <td class="l1" char="Th">1</td>
+            <td class="l2" char="Þ">0</td>
+            <td class="l3" char="Þ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN">
+            <td class="l1" char="th">6</td>
+            <td class="l2" char="þ">0</td>
+            <td class="l3" char="þ">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER ENG">
+            <td class="l1" char="ng">4</td>
+            <td class="l2" char="Ŋ">0</td>
+            <td class="l3" char="Ŋ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER LONG S">
+            <td class="l1" char="s">0</td>
+            <td class="l2" char="ſ">19</td>
+            <td class="l3" char="ſ">19</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AL">
+            <td class="l1" char="al">2</td>
+            <td class="l2" char="al">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AN">
+            <td class="l1" char="an">10</td>
+            <td class="l2" char="an">10</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE A SMALL CAPITAL N">
+            <td class="l1" char="an">10</td>
+            <td class="l2" char="aɴ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">4</td>
+            <td class="l2" char="ar">4</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE A THORN">
+            <td class="l1" char="ath">1</td>
+            <td class="l2" char="aþ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE CK">
+            <td class="l1" char="ck">4</td>
+            <td class="l2" char="ck">4</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE CH">
+            <td class="l1" char="ch">24</td>
+            <td class="l2" char="ch">24</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE EY">
+            <td class="l1" char="ey">2</td>
+            <td class="l2" char="ey">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE F U WITH DIAERESIS">
+            <td class="l1" char="fü">1</td>
+            <td class="l2" char="fü">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE GR">
+            <td class="l1" char="gr">1</td>
+            <td class="l2" char="gr">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LL">
+            <td class="l1" char="ll">4</td>
+            <td class="l2" char="ll">4</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE O R ROTUNDA">
+            <td class="l1" char="or">2</td>
+            <td class="l2" char="oꝛ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S DESCENDING T">
+            <td class="l1" char="st">0</td>
+            <td class="l2" char="ſt">9</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S I">
+            <td class="l1" char="si">0</td>
+            <td class="l2" char="ſi">4</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S P">
+            <td class="l1" char="sp">1</td>
+            <td class="l2" char="ſp">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S CH">
+            <td class="l1" char="sch">0</td>
+            <td class="l2" char="ſch">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE TR">
+            <td class="l1" char="tr">1</td>
+            <td class="l2" char="tr">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE TT">
+            <td class="l1" char="tt">3</td>
+            <td class="l2" char="tt">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH OGONEK AND MACRON">
+            <td class="l1" char="en">19</td>
+            <td class="l2" char="ę̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER J WITH HIGH MACRON (ABOVE CHARACTER)">
+            <td class="l1" char="Jn">1</td>
+            <td class="l2" char="J̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER M WITH MEDIUM-HIGH OVERLINE (ABOVE CHARACTER)">
+            <td class="l1" char="m">0</td>
+            <td class="l2" char="m̅">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH ACUTE">
+            <td class="l1" char="th">6</td>
+            <td class="l2" char="þ́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER THORN WITH DOT BELOW">
+            <td class="l1" char="Th">1</td>
+            <td class="l2" char="Þ̣">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH DOT BELOW">
+            <td class="l1" char="th">6</td>
+            <td class="l2" char="þ̣">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER EU WITH CIRCUMFLEX">
+            <td class="l1" char="eu">2</td>
+            <td class="l2" char="eu᷍">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH LATIN SMALL LETTER I ABOVE">
+            <td class="l1" char="ei">17</td>
+            <td class="l2" char="eͥ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="ie">8</td>
+            <td class="l2" char="iͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER M WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="me">1</td>
+            <td class="l2" char="mͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER W WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="We">2</td>
+            <td class="l2" char="Wͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="we">5</td>
+            <td class="l2" char="wͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER O ABOVE">
+            <td class="l1" char="wo">1</td>
+            <td class="l2" char="wͦ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER A ABOVE">
+            <td class="l1" char="wa">2</td>
+            <td class="l2" char="wͣ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH DIAERESIS AND MACRON">
+            <td class="l1" char="en">19</td>
+            <td class="l2" char="ë̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER A WITH MACRON AND BREVE">
+            <td class="l1" char="an">10</td>
+            <td class="l2" char="ā̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH MACRON AND BREVE">
+            <td class="l1" char="en">19</td>
+            <td class="l2" char="ē̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH MACRON AND BREVE">
+            <td class="l1" char="in">15</td>
+            <td class="l2" char="ī̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER O WITH MACRON AND BREVE">
+            <td class="l1" char="on">1</td>
+            <td class="l2" char="ō̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH MACRON AND BREVE">
+            <td class="l1" char="un">6</td>
+            <td class="l2" char="ū̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER Y WITH MACRON AND BREVE">
+            <td class="l1" char="yn">1</td>
+            <td class="l2" char="ȳ̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER A WITH MACRON AND ACUTE">
+            <td class="l1" char="an">10</td>
+            <td class="l2" char="ā́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH MACRON AND ACUTE">
+            <td class="l1" char="in">15</td>
+            <td class="l2" char="ī́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH MACRON AND ACUTE">
+            <td class="l1" char="un">6</td>
+            <td class="l2" char="ū́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER Y WITH MACRON AND ACUTE">
+            <td class="l1" char="yn">1</td>
+            <td class="l2" char="ȳ́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE H AND LONG S">
+            <td class="l1" char="hs">0</td>
+            <td class="l2" char="hſ">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE AN">
+            <td class="l1" char="an">10</td>
+            <td class="l2" char="an">10</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">4</td>
+            <td class="l2" char="ar">4</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE A SMALL CAPITAL N">
+            <td class="l1" char="an">10</td>
+            <td class="l2" char="aɴ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="RUNIC LETTER ETH">
+            <td class="l1" char="th">6</td>
+            <td class="l2" char="ᚧ">0</td>
+            <td class="l3" char="ᚧ">0</td>
+         </tr>
+         <tr title="RUNIC LETTER THURISAZ THURS THORN">
+            <td class="l1" char="th">6</td>
+            <td class="l2" char="ᚦ">0</td>
+            <td class="l3" char="ᚦ">0</td>
+         </tr>
+         <tr title="DOUBLE OBLIQUE HYPHEN">
+            <td class="l1" char="-">0</td>
+            <td class="l2" char="-">0</td>
+            <td class="l3" char="⸗">5</td>
+         </tr>
+      </table>
+   </details>
+   <details>
       <summary>Level Matrix Page: 00000536.xml</summary>
       <table class="pagelevel">
          <tr>
@@ -4582,6 +6137,341 @@
             <td class="l1" char="-">0</td>
             <td class="l2" char="-">0</td>
             <td class="l3" char="⸗">6</td>
+         </tr>
+      </table>
+   </details>
+   <details>
+      <summary>Level Matrix Page: 00000543.xml</summary>
+      <table class="pagelevel">
+         <tr>
+            <td class="dname" colspan="2">00000543.xml</td>
+         </tr>
+         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">601</li>
+                  <li class="sl1">284</li>
+                  <li class="sl2">79</li>
+                  <li class="sl3">14</li>
+               </ul>
+            </td>
+            <td class="leveldesc" colspan="3">
+               <button type="button"
+                       class="bilanguage"
+                       onclick="changeLanguage()"
+                       data-en="Deutsch"
+                       data-de="English"> </button>
+               <p class="bilanguage"
+                  data-de="Transkription entspricht dem Level 1"
+                  data-en="Transcription corresponds to level 1"/>
+               <span class="level">1</span>
+               <ul>
+                  <li>
+                     <a href="https://ocr-d.de/en/gt-guidelines/trans/trGrundsaetze.html">
+                        <span class="bilanguage"
+                              data-de="Allgemeines zu den Transkriptionslevel"
+                              data-en="General explanation of the ground truth levels"/>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://ocr-d.de/en/gt-guidelines/trans/tr_level_1_4.html">
+                        <span class="bilanguage"
+                              data-de="Wie wird im Level 1 transkribiert."
+                              data-en="How to transcribe in Level 1."/>
+                     </a>
+                  </li>
+               </ul>
+            </td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE FL">
+            <td class="l1" char="fl">1</td>
+            <td class="l2" char="fl">1</td>
+            <td class="l3" char="ﬂ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S T">
+            <td class="l1" char="st">0</td>
+            <td class="l2" char="ſt">1</td>
+            <td class="l3" char="ﬅ">0</td>
+         </tr>
+         <tr title="RIGHT SINGLE QUOTATION MARK">
+            <td class="l1" char="'">0</td>
+            <td class="l2" char="’">2</td>
+            <td class="l3" char="’">2</td>
+         </tr>
+         <tr title="GREEK CAPITAL LETTER THETA">
+            <td class="l1" char="Th">1</td>
+            <td class="l2" char="Θ">0</td>
+            <td class="l3" char="Θ">0</td>
+         </tr>
+         <tr title="GREEK SMALL LETTER THETA">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="θ">0</td>
+            <td class="l3" char="θ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH CIRCUMFLEX">
+            <td class="l1" char="ei">10</td>
+            <td class="l2" char="î">0</td>
+            <td class="l3" char="î">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER N WITH TILDE">
+            <td class="l1" char="nn">1</td>
+            <td class="l2" char="ñ">0</td>
+            <td class="l3" char="ñ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH CIRCUMFLEX">
+            <td class="l1" char="au">1</td>
+            <td class="l2" char="û">0</td>
+            <td class="l3" char="û">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER THORN">
+            <td class="l1" char="Th">1</td>
+            <td class="l2" char="Þ">0</td>
+            <td class="l3" char="Þ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="þ">0</td>
+            <td class="l3" char="þ">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER ENG">
+            <td class="l1" char="ng">7</td>
+            <td class="l2" char="Ŋ">0</td>
+            <td class="l3" char="Ŋ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER LONG S">
+            <td class="l1" char="s">0</td>
+            <td class="l2" char="ſ">8</td>
+            <td class="l3" char="ſ">8</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AF">
+            <td class="l1" char="af">1</td>
+            <td class="l2" char="af">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AG">
+            <td class="l1" char="ag">2</td>
+            <td class="l2" char="ag">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AL">
+            <td class="l1" char="al">6</td>
+            <td class="l2" char="al">6</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AN">
+            <td class="l1" char="an">13</td>
+            <td class="l2" char="an">13</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE A SMALL CAPITAL N">
+            <td class="l1" char="an">13</td>
+            <td class="l2" char="aɴ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">1</td>
+            <td class="l2" char="ar">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE CK">
+            <td class="l1" char="ck">1</td>
+            <td class="l2" char="ck">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE CH">
+            <td class="l1" char="ch">12</td>
+            <td class="l2" char="ch">12</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE FT">
+            <td class="l1" char="ft">1</td>
+            <td class="l2" char="ft">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE F U WITH DIAERESIS">
+            <td class="l1" char="fü">1</td>
+            <td class="l2" char="fü">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LL">
+            <td class="l1" char="ll">6</td>
+            <td class="l2" char="ll">6</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE O R ROTUNDA">
+            <td class="l1" char="or">1</td>
+            <td class="l2" char="oꝛ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE OC">
+            <td class="l1" char="oc">1</td>
+            <td class="l2" char="oc">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S DESCENDING T">
+            <td class="l1" char="st">0</td>
+            <td class="l2" char="ſt">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S I">
+            <td class="l1" char="si">1</td>
+            <td class="l2" char="ſi">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S U WITH DIAERESIS">
+            <td class="l1" char="sü">0</td>
+            <td class="l2" char="ſü">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S CH">
+            <td class="l1" char="sch">0</td>
+            <td class="l2" char="ſch">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S K">
+            <td class="l1" char="sk">1</td>
+            <td class="l2" char="ſk">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH OGONEK AND MACRON">
+            <td class="l1" char="en">20</td>
+            <td class="l2" char="ę̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER M WITH MEDIUM-HIGH OVERLINE (ABOVE CHARACTER)">
+            <td class="l1" char="m">0</td>
+            <td class="l2" char="m̅">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER N WITH MEDIUM-HIGH MACRON (ABOVE CHARACTER)">
+            <td class="l1" char="nn">1</td>
+            <td class="l2" char="n̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH ACUTE">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="þ́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER THORN WITH DOT BELOW">
+            <td class="l1" char="Th">1</td>
+            <td class="l2" char="Þ̣">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH DOT BELOW">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="þ̣">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER EU WITH CIRCUMFLEX">
+            <td class="l1" char="eu">4</td>
+            <td class="l2" char="eu᷍">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH LATIN SMALL LETTER I ABOVE">
+            <td class="l1" char="ei">10</td>
+            <td class="l2" char="eͥ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="ie">14</td>
+            <td class="l2" char="iͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER M WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="me">2</td>
+            <td class="l2" char="mͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER A ABOVE">
+            <td class="l1" char="wa">2</td>
+            <td class="l2" char="wͣ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH DIAERESIS AND MACRON">
+            <td class="l1" char="en">20</td>
+            <td class="l2" char="ë̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER A WITH MACRON AND BREVE">
+            <td class="l1" char="an">13</td>
+            <td class="l2" char="ā̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH MACRON AND BREVE">
+            <td class="l1" char="en">20</td>
+            <td class="l2" char="ē̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH MACRON AND BREVE">
+            <td class="l1" char="in">11</td>
+            <td class="l2" char="ī̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER O WITH MACRON AND BREVE">
+            <td class="l1" char="on">2</td>
+            <td class="l2" char="ō̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND BREVE">
+            <td class="l1" char="Un">2</td>
+            <td class="l2" char="Ū̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH MACRON AND BREVE">
+            <td class="l1" char="un">7</td>
+            <td class="l2" char="ū̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER A WITH MACRON AND ACUTE">
+            <td class="l1" char="an">13</td>
+            <td class="l2" char="ā́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH MACRON AND ACUTE">
+            <td class="l1" char="in">11</td>
+            <td class="l2" char="ī́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND ACUTE">
+            <td class="l1" char="Un">2</td>
+            <td class="l2" char="Ū́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH MACRON AND ACUTE">
+            <td class="l1" char="un">7</td>
+            <td class="l2" char="ū́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE AN">
+            <td class="l1" char="an">13</td>
+            <td class="l2" char="an">13</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">1</td>
+            <td class="l2" char="ar">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE A SMALL CAPITAL N">
+            <td class="l1" char="an">13</td>
+            <td class="l2" char="aɴ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="RUNIC LETTER ETH">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="ᚧ">0</td>
+            <td class="l3" char="ᚧ">0</td>
+         </tr>
+         <tr title="RUNIC LETTER THURISAZ THURS THORN">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="ᚦ">0</td>
+            <td class="l3" char="ᚦ">0</td>
+         </tr>
+         <tr title="DOUBLE OBLIQUE HYPHEN">
+            <td class="l1" char="-">0</td>
+            <td class="l2" char="-">0</td>
+            <td class="l3" char="⸗">4</td>
          </tr>
       </table>
    </details>
@@ -5266,6 +7156,356 @@
       </table>
    </details>
    <details>
+      <summary>Level Matrix Page: 00000541.xml</summary>
+      <table class="pagelevel">
+         <tr>
+            <td class="dname" colspan="2">00000541.xml</td>
+         </tr>
+         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">818</li>
+                  <li class="sl1">333</li>
+                  <li class="sl2">132</li>
+                  <li class="sl3">37</li>
+               </ul>
+            </td>
+            <td class="leveldesc" colspan="3">
+               <button type="button"
+                       class="bilanguage"
+                       onclick="changeLanguage()"
+                       data-en="Deutsch"
+                       data-de="English"> </button>
+               <p class="bilanguage"
+                  data-de="Transkription entspricht dem Level 1"
+                  data-en="Transcription corresponds to level 1"/>
+               <span class="level">1</span>
+               <ul>
+                  <li>
+                     <a href="https://ocr-d.de/en/gt-guidelines/trans/trGrundsaetze.html">
+                        <span class="bilanguage"
+                              data-de="Allgemeines zu den Transkriptionslevel"
+                              data-en="General explanation of the ground truth levels"/>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://ocr-d.de/en/gt-guidelines/trans/tr_level_1_4.html">
+                        <span class="bilanguage"
+                              data-de="Wie wird im Level 1 transkribiert."
+                              data-en="How to transcribe in Level 1."/>
+                     </a>
+                  </li>
+               </ul>
+            </td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE FL">
+            <td class="l1" char="fl">1</td>
+            <td class="l2" char="fl">1</td>
+            <td class="l3" char="ﬂ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S T">
+            <td class="l1" char="st">0</td>
+            <td class="l2" char="ſt">2</td>
+            <td class="l3" char="ﬅ">0</td>
+         </tr>
+         <tr title="GREEK SMALL LETTER THETA">
+            <td class="l1" char="th">3</td>
+            <td class="l2" char="θ">0</td>
+            <td class="l3" char="θ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER A WITH TILDE">
+            <td class="l1" char="aa">2</td>
+            <td class="l2" char="ã">0</td>
+            <td class="l3" char="ã">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH CIRCUMFLEX">
+            <td class="l1" char="ei">9</td>
+            <td class="l2" char="î">0</td>
+            <td class="l3" char="î">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH CIRCUMFLEX">
+            <td class="l1" char="au">6</td>
+            <td class="l2" char="û">0</td>
+            <td class="l3" char="û">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN">
+            <td class="l1" char="th">3</td>
+            <td class="l2" char="þ">0</td>
+            <td class="l3" char="þ">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER ENG">
+            <td class="l1" char="ng">7</td>
+            <td class="l2" char="Ŋ">0</td>
+            <td class="l3" char="Ŋ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER LONG S">
+            <td class="l1" char="s">0</td>
+            <td class="l2" char="ſ">30</td>
+            <td class="l3" char="ſ">30</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AG">
+            <td class="l1" char="ag">3</td>
+            <td class="l2" char="ag">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AL">
+            <td class="l1" char="al">6</td>
+            <td class="l2" char="al">6</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AN">
+            <td class="l1" char="an">6</td>
+            <td class="l2" char="an">6</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE A SMALL CAPITAL N">
+            <td class="l1" char="an">6</td>
+            <td class="l2" char="aɴ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">8</td>
+            <td class="l2" char="ar">8</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE CH">
+            <td class="l1" char="ch">25</td>
+            <td class="l2" char="ch">25</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE EY">
+            <td class="l1" char="ey">5</td>
+            <td class="l2" char="ey">5</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE FT">
+            <td class="l1" char="ft">1</td>
+            <td class="l2" char="ft">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE F U WITH DIAERESIS">
+            <td class="l1" char="fü">1</td>
+            <td class="l2" char="fü">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE GR">
+            <td class="l1" char="gr">1</td>
+            <td class="l2" char="gr">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LL">
+            <td class="l1" char="ll">2</td>
+            <td class="l2" char="ll">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE O R ROTUNDA">
+            <td class="l1" char="or">2</td>
+            <td class="l2" char="oꝛ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE OC">
+            <td class="l1" char="oc">2</td>
+            <td class="l2" char="oc">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S DESCENDING T">
+            <td class="l1" char="st">0</td>
+            <td class="l2" char="ſt">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S I">
+            <td class="l1" char="si">0</td>
+            <td class="l2" char="ſi">10</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S O WITH DIAERESIS">
+            <td class="l1" char="sö">0</td>
+            <td class="l2" char="ſö">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S CH">
+            <td class="l1" char="sch">0</td>
+            <td class="l2" char="ſch">6</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE TR">
+            <td class="l1" char="tr">1</td>
+            <td class="l2" char="tr">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH OGONEK AND MACRON">
+            <td class="l1" char="en">27</td>
+            <td class="l2" char="ę̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER L WITH HIGH MACRON (ABOVE CHARACTER)">
+            <td class="l1" char="ln">1</td>
+            <td class="l2" char="l̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER M WITH MEDIUM-HIGH OVERLINE (ABOVE CHARACTER)">
+            <td class="l1" char="m">0</td>
+            <td class="l2" char="m̅">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER O WITH STROKE AND MACRON">
+            <td class="l1" char="ön">2</td>
+            <td class="l2" char="ø̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH ACUTE">
+            <td class="l1" char="th">3</td>
+            <td class="l2" char="þ́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH DOT BELOW">
+            <td class="l1" char="th">3</td>
+            <td class="l2" char="þ̣">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN ENLARGED LETTER SMALL LIGATURE AA">
+            <td class="l1" char="aa">2</td>
+            <td class="l2" char="aa">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH LATIN SMALL LETTER I ABOVE">
+            <td class="l1" char="ei">9</td>
+            <td class="l2" char="eͥ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="ie">19</td>
+            <td class="l2" char="iͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER J WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="je">2</td>
+            <td class="l2" char="jͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER W WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="We">2</td>
+            <td class="l2" char="Wͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="we">6</td>
+            <td class="l2" char="wͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER A ABOVE">
+            <td class="l1" char="wa">7</td>
+            <td class="l2" char="wͣ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER Y WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="ye">1</td>
+            <td class="l2" char="yͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH DIAERESIS AND MACRON">
+            <td class="l1" char="en">27</td>
+            <td class="l2" char="ë̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER A WITH MACRON AND BREVE">
+            <td class="l1" char="an">6</td>
+            <td class="l2" char="ā̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH MACRON AND BREVE">
+            <td class="l1" char="en">27</td>
+            <td class="l2" char="ē̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH MACRON AND BREVE">
+            <td class="l1" char="in">6</td>
+            <td class="l2" char="ī̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER O WITH MACRON AND BREVE">
+            <td class="l1" char="on">3</td>
+            <td class="l2" char="ō̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER O WITH STROKE AND MACRON AND BREVE">
+            <td class="l1" char="ön">2</td>
+            <td class="l2" char="ø̄̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH MACRON AND BREVE">
+            <td class="l1" char="un">17</td>
+            <td class="l2" char="ū̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER Y WITH MACRON AND BREVE">
+            <td class="l1" char="yn">2</td>
+            <td class="l2" char="ȳ̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER A WITH MACRON AND ACUTE">
+            <td class="l1" char="an">6</td>
+            <td class="l2" char="ā́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH MACRON AND ACUTE">
+            <td class="l1" char="in">6</td>
+            <td class="l2" char="ī́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER O WITH STROKE AND MACRON AND ACUTE">
+            <td class="l1" char="ön">2</td>
+            <td class="l2" char="ø̄́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH MACRON AND ACUTE">
+            <td class="l1" char="un">17</td>
+            <td class="l2" char="ū́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER Y WITH MACRON AND ACUTE">
+            <td class="l1" char="yn">2</td>
+            <td class="l2" char="ȳ́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE H AND LONG S">
+            <td class="l1" char="hs">0</td>
+            <td class="l2" char="hſ">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE AN">
+            <td class="l1" char="an">6</td>
+            <td class="l2" char="an">6</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">8</td>
+            <td class="l2" char="ar">8</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE A SMALL CAPITAL N">
+            <td class="l1" char="an">6</td>
+            <td class="l2" char="aɴ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="RUNIC LETTER ETH">
+            <td class="l1" char="th">3</td>
+            <td class="l2" char="ᚧ">0</td>
+            <td class="l3" char="ᚧ">0</td>
+         </tr>
+         <tr title="RUNIC LETTER THURISAZ THURS THORN">
+            <td class="l1" char="th">3</td>
+            <td class="l2" char="ᚦ">0</td>
+            <td class="l3" char="ᚦ">0</td>
+         </tr>
+         <tr title="DOUBLE OBLIQUE HYPHEN">
+            <td class="l1" char="-">0</td>
+            <td class="l2" char="-">0</td>
+            <td class="l3" char="⸗">7</td>
+         </tr>
+      </table>
+   </details>
+   <details>
       <summary>Level Matrix Page: 00000551.xml</summary>
       <table class="pagelevel">
          <tr>
@@ -5592,6 +7832,461 @@
             <td class="l1" char="-">0</td>
             <td class="l2" char="-">0</td>
             <td class="l3" char="⸗">1</td>
+         </tr>
+      </table>
+   </details>
+   <details>
+      <summary>Level Matrix Page: 00000539.xml</summary>
+      <table class="pagelevel">
+         <tr>
+            <td class="dname" colspan="2">00000539.xml</td>
+         </tr>
+         <tr>
+            <td class="char">
+               <ul class="suml">
+                  <li class="sumchar">853</li>
+                  <li class="sl1">386</li>
+                  <li class="sl2">149</li>
+                  <li class="sl3">31</li>
+               </ul>
+            </td>
+            <td class="leveldesc" colspan="3">
+               <button type="button"
+                       class="bilanguage"
+                       onclick="changeLanguage()"
+                       data-en="Deutsch"
+                       data-de="English"> </button>
+               <p class="bilanguage"
+                  data-de="Transkription entspricht dem Level 1"
+                  data-en="Transcription corresponds to level 1"/>
+               <span class="level">1</span>
+               <ul>
+                  <li>
+                     <a href="https://ocr-d.de/en/gt-guidelines/trans/trGrundsaetze.html">
+                        <span class="bilanguage"
+                              data-de="Allgemeines zu den Transkriptionslevel"
+                              data-en="General explanation of the ground truth levels"/>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://ocr-d.de/en/gt-guidelines/trans/tr_level_1_4.html">
+                        <span class="bilanguage"
+                              data-de="Wie wird im Level 1 transkribiert."
+                              data-en="How to transcribe in Level 1."/>
+                     </a>
+                  </li>
+               </ul>
+            </td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S T">
+            <td class="l1" char="st">0</td>
+            <td class="l2" char="ſt">9</td>
+            <td class="l3" char="ﬅ">0</td>
+         </tr>
+         <tr title="GREEK SMALL LETTER THETA">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="θ">0</td>
+            <td class="l3" char="θ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ">0</td>
+            <td class="l3" char="æ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH CIRCUMFLEX">
+            <td class="l1" char="ei">20</td>
+            <td class="l2" char="î">0</td>
+            <td class="l3" char="î">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER N WITH TILDE">
+            <td class="l1" char="nn">1</td>
+            <td class="l2" char="ñ">0</td>
+            <td class="l3" char="ñ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH CIRCUMFLEX">
+            <td class="l1" char="au">4</td>
+            <td class="l2" char="û">0</td>
+            <td class="l3" char="û">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="þ">0</td>
+            <td class="l3" char="þ">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER ENG">
+            <td class="l1" char="ng">4</td>
+            <td class="l2" char="Ŋ">0</td>
+            <td class="l3" char="Ŋ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER LONG S">
+            <td class="l1" char="s">0</td>
+            <td class="l2" char="ſ">28</td>
+            <td class="l3" char="ſ">28</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH MACRON">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="ǣ">0</td>
+            <td class="l3" char="ǣ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH ACUTE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="ǽ">0</td>
+            <td class="l3" char="ǽ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AY">
+            <td class="l1" char="ay">1</td>
+            <td class="l2" char="ꜽ">0</td>
+            <td class="l3" char="ꜽ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AF">
+            <td class="l1" char="af">1</td>
+            <td class="l2" char="af">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AG">
+            <td class="l1" char="ag">1</td>
+            <td class="l2" char="ag">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AL">
+            <td class="l1" char="al">3</td>
+            <td class="l2" char="al">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AN">
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="an">9</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE A SMALL CAPITAL N">
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="aɴ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AP">
+            <td class="l1" char="ap">1</td>
+            <td class="l2" char="ap">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">5</td>
+            <td class="l2" char="ar">5</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE CK">
+            <td class="l1" char="ck">4</td>
+            <td class="l2" char="ck">4</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE CH">
+            <td class="l1" char="ch">32</td>
+            <td class="l2" char="ch">32</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE EY">
+            <td class="l1" char="ey">6</td>
+            <td class="l2" char="ey">6</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE FR">
+            <td class="l1" char="fr">1</td>
+            <td class="l2" char="fr">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE FT">
+            <td class="l1" char="ft">3</td>
+            <td class="l2" char="ft">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE F U WITH DIAERESIS">
+            <td class="l1" char="fü">1</td>
+            <td class="l2" char="fü">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LL">
+            <td class="l1" char="ll">4</td>
+            <td class="l2" char="ll">4</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE O R ROTUNDA">
+            <td class="l1" char="or">1</td>
+            <td class="l2" char="oꝛ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE OC">
+            <td class="l1" char="oc">4</td>
+            <td class="l2" char="oc">4</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S DESCENDING T">
+            <td class="l1" char="st">0</td>
+            <td class="l2" char="ſt">9</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S H">
+            <td class="l1" char="sh">1</td>
+            <td class="l2" char="ſh">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S I">
+            <td class="l1" char="si">0</td>
+            <td class="l2" char="ſi">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S TI">
+            <td class="l1" char="sti">0</td>
+            <td class="l2" char="ſti">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S CH">
+            <td class="l1" char="sch">0</td>
+            <td class="l2" char="ſch">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE TT">
+            <td class="l1" char="tt">1</td>
+            <td class="l2" char="tt">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE TZ">
+            <td class="l1" char="tz">2</td>
+            <td class="l2" char="tz">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH OGONEK AND MACRON">
+            <td class="l1" char="en">29</td>
+            <td class="l2" char="ę̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER M WITH MEDIUM-HIGH OVERLINE (ABOVE CHARACTER)">
+            <td class="l1" char="m">0</td>
+            <td class="l2" char="m̅">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER N WITH MEDIUM-HIGH MACRON (ABOVE CHARACTER)">
+            <td class="l1" char="nn">1</td>
+            <td class="l2" char="n̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH ACUTE">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="þ́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH DOUBLE ACUTE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ̋">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH DOT ABOVE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ̇">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH DOT BELOW">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ̣">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH DOT BELOW">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="þ̣">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH DIAERESIS">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ̈">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH CURL">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ᷎">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH OGONEK">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ̨">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH BREVE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER EU WITH CIRCUMFLEX">
+            <td class="l1" char="eu">1</td>
+            <td class="l2" char="eu᷍">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH RING ABOVE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ̊">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN ENLARGED LETTER SMALL LIGATURE AE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="ae">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN ENLARGED LETTER SMALL LIGATURE AO">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="ae">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH LATIN SMALL LETTER I ABOVE">
+            <td class="l1" char="ei">20</td>
+            <td class="l2" char="eͥ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="ie">8</td>
+            <td class="l2" char="iͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH LATIN SMALL LETTER O ABOVE">
+            <td class="l1" char="io">1</td>
+            <td class="l2" char="iͦ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER M WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="me">6</td>
+            <td class="l2" char="mͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH LATIN SMALL LETTER A ABOVE">
+            <td class="l1" char="ua">1</td>
+            <td class="l2" char="uͣ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER W WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="We">1</td>
+            <td class="l2" char="Wͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="we">4</td>
+            <td class="l2" char="wͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER O ABOVE">
+            <td class="l1" char="wo">2</td>
+            <td class="l2" char="wͦ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER A ABOVE">
+            <td class="l1" char="wa">2</td>
+            <td class="l2" char="wͣ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER U ABOVE">
+            <td class="l1" char="wu">1</td>
+            <td class="l2" char="wͧ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH DOT ABOVE AND ACUTE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="æ̇́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AE WITH OGONEK AND ACUTE">
+            <td class="l1" char="ae">1</td>
+            <td class="l2" char="ǽ̨">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH DIAERESIS AND MACRON">
+            <td class="l1" char="en">29</td>
+            <td class="l2" char="ë̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER A WITH MACRON AND BREVE">
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="ā̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER E WITH MACRON AND BREVE">
+            <td class="l1" char="en">29</td>
+            <td class="l2" char="ē̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH MACRON AND BREVE">
+            <td class="l1" char="in">16</td>
+            <td class="l2" char="ī̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER O WITH MACRON AND BREVE">
+            <td class="l1" char="on">4</td>
+            <td class="l2" char="ō̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND BREVE">
+            <td class="l1" char="Un">1</td>
+            <td class="l2" char="Ū̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH MACRON AND BREVE">
+            <td class="l1" char="un">8</td>
+            <td class="l2" char="ū̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER Y WITH MACRON AND BREVE">
+            <td class="l1" char="yn">5</td>
+            <td class="l2" char="ȳ̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER A WITH MACRON AND ACUTE">
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="ā́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER I WITH MACRON AND ACUTE">
+            <td class="l1" char="in">16</td>
+            <td class="l2" char="ī́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND ACUTE">
+            <td class="l1" char="Un">1</td>
+            <td class="l2" char="Ū́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH MACRON AND ACUTE">
+            <td class="l1" char="un">8</td>
+            <td class="l2" char="ū́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER Y WITH MACRON AND ACUTE">
+            <td class="l1" char="yn">5</td>
+            <td class="l2" char="ȳ́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE AN">
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="an">9</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">5</td>
+            <td class="l2" char="ar">5</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE A SMALL CAPITAL N">
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="aɴ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="RUNIC LETTER ETH">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="ᚧ">0</td>
+            <td class="l3" char="ᚧ">0</td>
+         </tr>
+         <tr title="RUNIC LETTER THURISAZ THURS THORN">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="ᚦ">0</td>
+            <td class="l3" char="ᚦ">0</td>
+         </tr>
+         <tr title="DOUBLE OBLIQUE HYPHEN">
+            <td class="l1" char="-">0</td>
+            <td class="l2" char="-">0</td>
+            <td class="l3" char="⸗">3</td>
          </tr>
       </table>
    </details>
@@ -6654,10 +9349,10 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">234</li>
-                  <li class="sl1">101</li>
-                  <li class="sl2">19</li>
-                  <li class="sl3">0</li>
+                  <li class="sumchar">717</li>
+                  <li class="sl1">356</li>
+                  <li class="sl2">108</li>
+                  <li class="sl3">26</li>
                </ul>
             </td>
             <td class="leveldesc" colspan="3">
@@ -6690,7 +9385,7 @@
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S T">
             <td class="l1" char="st">2</td>
-            <td class="l2" char="ſt">0</td>
+            <td class="l2" char="ſt">6</td>
             <td class="l3" char="ﬅ">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE ST">
@@ -6699,64 +9394,104 @@
             <td class="l3" char="ﬆ">0</td>
          </tr>
          <tr title="LEFTWARDS ARROW">
-            <td class="l1" char="-">1</td>
+            <td class="l1" char="-">4</td>
             <td class="l2" char="←">0</td>
             <td class="l3" char="←">0</td>
          </tr>
          <tr title="RIGHTWARDS ARROW">
-            <td class="l1" char="-">1</td>
+            <td class="l1" char="-">4</td>
             <td class="l2" char="→">0</td>
             <td class="l3" char="→">0</td>
          </tr>
          <tr title="HYPHEN">
-            <td class="l1" char="-">1</td>
+            <td class="l1" char="-">4</td>
             <td class="l2" char="‐">0</td>
             <td class="l3" char="‐">0</td>
          </tr>
          <tr title="NON-BREAKING HYPHEN">
-            <td class="l1" char="-">1</td>
+            <td class="l1" char="-">4</td>
             <td class="l2" char="‑">0</td>
             <td class="l3" char="‑">0</td>
          </tr>
          <tr title="FIGURE DASH">
-            <td class="l1" char="-">1</td>
+            <td class="l1" char="-">4</td>
             <td class="l2" char="‒">0</td>
             <td class="l3" char="‒">0</td>
          </tr>
          <tr title="EN DASH">
-            <td class="l1" char="-">1</td>
+            <td class="l1" char="-">4</td>
             <td class="l2" char="–">0</td>
             <td class="l3" char="–">0</td>
          </tr>
+         <tr title="GREEK SMALL LETTER THETA">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="θ">0</td>
+            <td class="l3" char="θ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER A WITH TILDE">
+            <td class="l1" char="aa">1</td>
+            <td class="l2" char="ã">0</td>
+            <td class="l3" char="ã">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER I WITH CIRCUMFLEX">
-            <td class="l1" char="ei">4</td>
+            <td class="l1" char="ei">15</td>
             <td class="l2" char="î">0</td>
             <td class="l3" char="î">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER U WITH CIRCUMFLEX">
-            <td class="l1" char="au">3</td>
+            <td class="l1" char="au">5</td>
             <td class="l2" char="û">0</td>
             <td class="l3" char="û">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="þ">0</td>
+            <td class="l3" char="þ">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER ENG">
+            <td class="l1" char="ng">4</td>
+            <td class="l2" char="Ŋ">0</td>
+            <td class="l3" char="Ŋ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER LONG S">
+            <td class="l1" char="s">0</td>
+            <td class="l2" char="ſ">26</td>
+            <td class="l3" char="ſ">26</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER AY">
+            <td class="l1" char="ay">1</td>
+            <td class="l2" char="ꜽ">0</td>
+            <td class="l3" char="ꜽ">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE AF">
             <td class="l1" char="af">1</td>
             <td class="l2" char="af">1</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LIGATURE AG">
+            <td class="l1" char="ag">1</td>
+            <td class="l2" char="ag">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LIGATURE AN">
-            <td class="l1" char="an">1</td>
-            <td class="l2" char="an">1</td>
+            <td class="l1" char="an">10</td>
+            <td class="l2" char="an">10</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE A SMALL CAPITAL N">
-            <td class="l1" char="an">1</td>
+            <td class="l1" char="an">10</td>
             <td class="l2" char="aɴ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE AR">
-            <td class="l1" char="ar">1</td>
-            <td class="l2" char="ar">1</td>
+            <td class="l1" char="ar">4</td>
+            <td class="l2" char="ar">4</td>
             <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE BB">
+            <td class="l1" char="bb">1</td>
+            <td class="l2" char="bb">1</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE CK">
             <td class="l1" char="ck">2</td>
@@ -6764,8 +9499,8 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE CH">
-            <td class="l1" char="ch">7</td>
-            <td class="l2" char="ch">7</td>
+            <td class="l1" char="ch">20</td>
+            <td class="l2" char="ch">20</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE EY">
@@ -6773,113 +9508,203 @@
             <td class="l2" char="ey">1</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LIGATURE GR">
+            <td class="l1" char="gr">1</td>
+            <td class="l2" char="gr">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LIGATURE LL">
             <td class="l1" char="ll">1</td>
             <td class="l2" char="ll">1</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LIGATURE O R ROTUNDA">
+            <td class="l1" char="or">1</td>
+            <td class="l2" char="oꝛ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LIGATURE LONG S DESCENDING T">
             <td class="l1" char="st">2</td>
-            <td class="l2" char="ſt">0</td>
+            <td class="l2" char="ſt">6</td>
             <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S I">
+            <td class="l1" char="si">0</td>
+            <td class="l2" char="ſi">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S LONG S">
+            <td class="l1" char="ss">0</td>
+            <td class="l2" char="ſſ">2</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S CH">
             <td class="l1" char="sch">2</td>
-            <td class="l2" char="ſch">0</td>
+            <td class="l2" char="ſch">3</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LIGATURE TT">
+            <td class="l1" char="tt">2</td>
+            <td class="l2" char="tt">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER E WITH OGONEK AND MACRON">
+            <td class="l1" char="En">1</td>
+            <td class="l2" char="Ę̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER E WITH OGONEK AND MACRON">
-            <td class="l1" char="en">11</td>
+            <td class="l1" char="en">28</td>
             <td class="l2" char="ę̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LETTER M WITH MEDIUM-HIGH OVERLINE (ABOVE CHARACTER)">
+            <td class="l1" char="m">0</td>
+            <td class="l2" char="m̅">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH ACUTE">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="þ́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER THORN WITH DOT BELOW">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="þ̣">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER EU WITH CIRCUMFLEX">
+            <td class="l1" char="eu">1</td>
+            <td class="l2" char="eu᷍">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN ENLARGED LETTER SMALL LIGATURE AA">
+            <td class="l1" char="aa">1</td>
+            <td class="l2" char="aa">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER E WITH LATIN SMALL LETTER I ABOVE">
-            <td class="l1" char="ei">4</td>
+            <td class="l1" char="ei">15</td>
             <td class="l2" char="eͥ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="ie">2</td>
+            <td class="l1" char="ie">9</td>
             <td class="l2" char="iͤ">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LETTER M WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="me">1</td>
+            <td class="l2" char="mͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="we">5</td>
+            <td class="l2" char="wͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER O ABOVE">
+            <td class="l1" char="wo">1</td>
+            <td class="l2" char="wͦ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER A ABOVE">
-            <td class="l1" char="wa">1</td>
+            <td class="l1" char="wa">5</td>
             <td class="l2" char="wͣ">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER U ABOVE">
+            <td class="l1" char="wu">1</td>
+            <td class="l2" char="wͧ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER E WITH DIAERESIS AND MACRON">
-            <td class="l1" char="en">11</td>
+            <td class="l1" char="en">28</td>
             <td class="l2" char="ë̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH MACRON AND BREVE">
-            <td class="l1" char="an">1</td>
+            <td class="l1" char="an">10</td>
             <td class="l2" char="ā̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH MACRON AND BREVE">
-            <td class="l1" char="en">11</td>
+            <td class="l1" char="en">28</td>
             <td class="l2" char="ē̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH MACRON AND BREVE">
-            <td class="l1" char="in">4</td>
+            <td class="l1" char="in">16</td>
             <td class="l2" char="ī̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER O WITH MACRON AND BREVE">
-            <td class="l1" char="on">1</td>
+            <td class="l1" char="on">5</td>
             <td class="l2" char="ō̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND BREVE">
+            <td class="l1" char="Un">1</td>
+            <td class="l2" char="Ū̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER U WITH MACRON AND BREVE">
-            <td class="l1" char="un">4</td>
+            <td class="l1" char="un">8</td>
             <td class="l2" char="ū̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH MACRON AND ACUTE">
-            <td class="l1" char="an">1</td>
+            <td class="l1" char="an">10</td>
             <td class="l2" char="ā́">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH MACRON AND ACUTE">
-            <td class="l1" char="in">4</td>
+            <td class="l1" char="in">16</td>
             <td class="l2" char="ī́">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN CAPITAL LETTER U WITH MACRON AND ACUTE">
+            <td class="l1" char="Un">1</td>
+            <td class="l2" char="Ū́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER U WITH MACRON AND ACUTE">
-            <td class="l1" char="un">4</td>
+            <td class="l1" char="un">8</td>
             <td class="l2" char="ū́">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE AN">
-            <td class="l1" char="an">1</td>
-            <td class="l2" char="an">1</td>
+            <td class="l1" char="an">10</td>
+            <td class="l2" char="an">10</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE AR">
-            <td class="l1" char="ar">1</td>
-            <td class="l2" char="ar">1</td>
+            <td class="l1" char="ar">4</td>
+            <td class="l2" char="ar">4</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE A SMALL CAPITAL N">
-            <td class="l1" char="an">1</td>
+            <td class="l1" char="an">10</td>
             <td class="l2" char="aɴ">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="RUNIC LETTER ETH">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="ᚧ">0</td>
+            <td class="l3" char="ᚧ">0</td>
+         </tr>
+         <tr title="RUNIC LETTER THURISAZ THURS THORN">
+            <td class="l1" char="th">2</td>
+            <td class="l2" char="ᚦ">0</td>
+            <td class="l3" char="ᚦ">0</td>
+         </tr>
          <tr title="SUPERSCRIPT MINUS">
-            <td class="l1" char="-">1</td>
+            <td class="l1" char="-">4</td>
             <td class="l2" char="⁻">0</td>
             <td class="l3" char="⁻">0</td>
          </tr>
-         <tr title="DOUBLE OBLIQUE HYPHEN">
-            <td class="l1" char="-">1</td>
-            <td class="l2" char="-">1</td>
-            <td class="l3" char="⸗">0</td>
-         </tr>
          <tr title="DOUBLE HYPHEN">
-            <td class="l1" char="-">1</td>
+            <td class="l1" char="-">4</td>
             <td class="l2" char="⹀">0</td>
             <td class="l3" char="⹀">0</td>
          </tr>
@@ -7294,7 +10119,7 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">685</li>
+                  <li class="sumchar">686</li>
                   <li class="sl1">312</li>
                   <li class="sl2">102</li>
                   <li class="sl3">15</li>
@@ -19139,7 +21964,7 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">690</li>
+                  <li class="sumchar">693</li>
                   <li class="sl1">297</li>
                   <li class="sl2">102</li>
                   <li class="sl3">12</li>
@@ -19504,10 +22329,10 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">642</li>
-                  <li class="sl1">239</li>
-                  <li class="sl2">120</li>
-                  <li class="sl3">30</li>
+                  <li class="sumchar">673</li>
+                  <li class="sl1">255</li>
+                  <li class="sl2">124</li>
+                  <li class="sl3">31</li>
                </ul>
             </td>
             <td class="leveldesc" colspan="3">
@@ -19589,7 +22414,7 @@
             <td class="l3" char="–">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH CIRCUMFLEX">
-            <td class="l1" char="ei">7</td>
+            <td class="l1" char="ei">8</td>
             <td class="l2" char="î">0</td>
             <td class="l3" char="î">0</td>
          </tr>
@@ -19610,8 +22435,8 @@
          </tr>
          <tr title="LATIN SMALL LETTER LONG S">
             <td class="l1" char="s">0</td>
-            <td class="l2" char="ſ">30</td>
-            <td class="l3" char="ſ">30</td>
+            <td class="l2" char="ſ">31</td>
+            <td class="l3" char="ſ">31</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE AF">
             <td class="l1" char="af">1</td>
@@ -19629,12 +22454,12 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE AN">
-            <td class="l1" char="an">8</td>
-            <td class="l2" char="an">8</td>
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="an">9</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE A SMALL CAPITAL N">
-            <td class="l1" char="an">8</td>
+            <td class="l1" char="an">9</td>
             <td class="l2" char="aɴ">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -19649,8 +22474,8 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE CH">
-            <td class="l1" char="ch">18</td>
-            <td class="l2" char="ch">18</td>
+            <td class="l1" char="ch">19</td>
+            <td class="l2" char="ch">19</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE EY">
@@ -19699,7 +22524,7 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH OGONEK AND MACRON">
-            <td class="l1" char="en">11</td>
+            <td class="l1" char="en">13</td>
             <td class="l2" char="ę̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -19719,7 +22544,7 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH LATIN SMALL LETTER I ABOVE">
-            <td class="l1" char="ei">7</td>
+            <td class="l1" char="ei">8</td>
             <td class="l2" char="eͥ">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -19734,7 +22559,7 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER M WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="me">3</td>
+            <td class="l1" char="me">4</td>
             <td class="l2" char="mͤ">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -19754,17 +22579,17 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH DIAERESIS AND MACRON">
-            <td class="l1" char="en">11</td>
+            <td class="l1" char="en">13</td>
             <td class="l2" char="ë̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH MACRON AND BREVE">
-            <td class="l1" char="an">8</td>
+            <td class="l1" char="an">9</td>
             <td class="l2" char="ā̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH MACRON AND BREVE">
-            <td class="l1" char="en">11</td>
+            <td class="l1" char="en">13</td>
             <td class="l2" char="ē̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -19784,7 +22609,7 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH MACRON AND ACUTE">
-            <td class="l1" char="an">8</td>
+            <td class="l1" char="an">9</td>
             <td class="l2" char="ā́">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -19799,8 +22624,8 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE AN">
-            <td class="l1" char="an">8</td>
-            <td class="l2" char="an">8</td>
+            <td class="l1" char="an">9</td>
+            <td class="l2" char="an">9</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE AR">
@@ -19809,7 +22634,7 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE A SMALL CAPITAL N">
-            <td class="l1" char="an">8</td>
+            <td class="l1" char="an">9</td>
             <td class="l2" char="aɴ">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -21199,7 +24024,7 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">689</li>
+                  <li class="sumchar">691</li>
                   <li class="sl1">320</li>
                   <li class="sl2">66</li>
                   <li class="sl3">0</li>
@@ -29669,7 +32494,7 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">585</li>
+                  <li class="sumchar">586</li>
                   <li class="sl1">208</li>
                   <li class="sl2">73</li>
                   <li class="sl3">20</li>
@@ -30374,10 +33199,10 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">581</li>
-                  <li class="sl1">212</li>
-                  <li class="sl2">62</li>
-                  <li class="sl3">17</li>
+                  <li class="sumchar">667</li>
+                  <li class="sl1">243</li>
+                  <li class="sl2">74</li>
+                  <li class="sl3">20</li>
                </ul>
             </td>
             <td class="leveldesc" colspan="3">
@@ -30414,9 +33239,14 @@
             <td class="l3" char="ﬁ">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S T">
-            <td class="l1" char="st">0</td>
+            <td class="l1" char="st">1</td>
             <td class="l2" char="ſt">3</td>
             <td class="l3" char="ﬅ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE ST">
+            <td class="l1" char="st">1</td>
+            <td class="l2" char="st">1</td>
+            <td class="l3" char="ﬆ">0</td>
          </tr>
          <tr title="GREEK SMALL LETTER THETA">
             <td class="l1" char="th">2</td>
@@ -30429,7 +33259,7 @@
             <td class="l3" char="î">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER U WITH CIRCUMFLEX">
-            <td class="l1" char="au">3</td>
+            <td class="l1" char="au">4</td>
             <td class="l2" char="û">0</td>
             <td class="l3" char="û">0</td>
          </tr>
@@ -30445,8 +33275,8 @@
          </tr>
          <tr title="LATIN SMALL LETTER LONG S">
             <td class="l1" char="s">0</td>
-            <td class="l2" char="ſ">14</td>
-            <td class="l3" char="ſ">14</td>
+            <td class="l2" char="ſ">17</td>
+            <td class="l3" char="ſ">17</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE AL">
             <td class="l1" char="al">4</td>
@@ -30454,18 +33284,18 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE AN">
-            <td class="l1" char="an">1</td>
-            <td class="l2" char="an">1</td>
+            <td class="l1" char="an">2</td>
+            <td class="l2" char="an">2</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE A SMALL CAPITAL N">
-            <td class="l1" char="an">1</td>
+            <td class="l1" char="an">2</td>
             <td class="l2" char="aɴ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE CK">
-            <td class="l1" char="ck">1</td>
-            <td class="l2" char="ck">1</td>
+            <td class="l1" char="ck">2</td>
+            <td class="l2" char="ck">2</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE CH">
@@ -30474,13 +33304,13 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE EY">
-            <td class="l1" char="ey">1</td>
-            <td class="l2" char="ey">1</td>
+            <td class="l1" char="ey">2</td>
+            <td class="l2" char="ey">2</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE FT">
-            <td class="l1" char="ft">2</td>
-            <td class="l2" char="ft">2</td>
+            <td class="l1" char="ft">3</td>
+            <td class="l2" char="ft">3</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE GD">
@@ -30504,7 +33334,7 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S DESCENDING T">
-            <td class="l1" char="st">0</td>
+            <td class="l1" char="st">1</td>
             <td class="l2" char="ſt">3</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -30512,6 +33342,11 @@
             <td class="l1" char="si">0</td>
             <td class="l2" char="ſi">5</td>
             <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S LONG S">
+            <td class="l1" char="ss">0</td>
+            <td class="l2" char="ſſ">1</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S CH">
             <td class="l1" char="sch">0</td>
@@ -30524,9 +33359,14 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE TT">
-            <td class="l1" char="tt">1</td>
-            <td class="l2" char="tt">1</td>
+            <td class="l1" char="tt">2</td>
+            <td class="l2" char="tt">2</td>
             <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE TZ">
+            <td class="l1" char="tz">1</td>
+            <td class="l2" char="tz">1</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE UE">
             <td class="l1" char="ue">1</td>
@@ -30534,12 +33374,12 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH OGONEK AND MACRON">
-            <td class="l1" char="en">24</td>
+            <td class="l1" char="en">27</td>
             <td class="l2" char="ę̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN CAPITAL LETTER J WITH HIGH MACRON (ABOVE CHARACTER)">
-            <td class="l1" char="Jn">1</td>
+            <td class="l1" char="Jn">2</td>
             <td class="l2" char="J̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -30573,13 +33413,23 @@
             <td class="l2" char="iͤ">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LETTER M WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="me">1</td>
+            <td class="l2" char="mͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER E ABOVE">
+            <td class="l1" char="we">1</td>
+            <td class="l2" char="wͤ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER O ABOVE">
             <td class="l1" char="wo">2</td>
             <td class="l2" char="wͦ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH DIAERESIS AND MACRON">
-            <td class="l1" char="en">24</td>
+            <td class="l1" char="en">27</td>
             <td class="l2" char="ë̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -30589,12 +33439,12 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH MACRON AND BREVE">
-            <td class="l1" char="an">1</td>
+            <td class="l1" char="an">2</td>
             <td class="l2" char="ā̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH MACRON AND BREVE">
-            <td class="l1" char="en">24</td>
+            <td class="l1" char="en">27</td>
             <td class="l2" char="ē̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -30604,7 +33454,7 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER O WITH MACRON AND BREVE">
-            <td class="l1" char="on">3</td>
+            <td class="l1" char="on">5</td>
             <td class="l2" char="ō̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -30618,13 +33468,18 @@
             <td class="l2" char="ū̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LETTER Y WITH MACRON AND BREVE">
+            <td class="l1" char="yn">1</td>
+            <td class="l2" char="ȳ̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN CAPITAL LETTER A WITH MACRON AND ACUTE">
             <td class="l1" char="An">2</td>
             <td class="l2" char="Ā́">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER A WITH MACRON AND ACUTE">
-            <td class="l1" char="an">1</td>
+            <td class="l1" char="an">2</td>
             <td class="l2" char="ā́">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -30643,6 +33498,11 @@
             <td class="l2" char="ū́">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LETTER Y WITH MACRON AND ACUTE">
+            <td class="l1" char="yn">1</td>
+            <td class="l2" char="ȳ́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LIGATURE H AND LONG S WITH STROKE">
             <td class="l1" char="hs">1</td>
             <td class="l2" char="hſ̵">0</td>
@@ -30654,12 +33514,12 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE AN">
-            <td class="l1" char="an">1</td>
-            <td class="l2" char="an">1</td>
+            <td class="l1" char="an">2</td>
+            <td class="l2" char="an">2</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE A SMALL CAPITAL N">
-            <td class="l1" char="an">1</td>
+            <td class="l1" char="an">2</td>
             <td class="l2" char="aɴ">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -33334,9 +36194,9 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">608</li>
-                  <li class="sl1">278</li>
-                  <li class="sl2">50</li>
+                  <li class="sumchar">646</li>
+                  <li class="sl1">293</li>
+                  <li class="sl2">51</li>
                   <li class="sl3">0</li>
                </ul>
             </td>
@@ -33419,7 +36279,7 @@
             <td class="l3" char="θ">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH CIRCUMFLEX">
-            <td class="l1" char="ei">5</td>
+            <td class="l1" char="ei">6</td>
             <td class="l2" char="î">0</td>
             <td class="l3" char="î">0</td>
          </tr>
@@ -33469,8 +36329,8 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE CT">
-            <td class="l1" char="ct">1</td>
-            <td class="l2" char="ct">1</td>
+            <td class="l1" char="ct">2</td>
+            <td class="l2" char="ct">2</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE CH">
@@ -33554,7 +36414,7 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH OGONEK AND MACRON">
-            <td class="l1" char="en">24</td>
+            <td class="l1" char="en">27</td>
             <td class="l2" char="ę̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -33579,17 +36439,17 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH LATIN SMALL LETTER I ABOVE">
-            <td class="l1" char="ei">5</td>
+            <td class="l1" char="ei">6</td>
             <td class="l2" char="eͥ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="ie">15</td>
+            <td class="l1" char="ie">16</td>
             <td class="l2" char="iͤ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH LATIN SMALL LETTER V ABOVE">
-            <td class="l1" char="iv">1</td>
+            <td class="l1" char="iv">2</td>
             <td class="l2" char="iͮ">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -33604,12 +36464,12 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER U ABOVE">
-            <td class="l1" char="wu">2</td>
+            <td class="l1" char="wu">3</td>
             <td class="l2" char="wͧ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH DIAERESIS AND MACRON">
-            <td class="l1" char="en">24</td>
+            <td class="l1" char="en">27</td>
             <td class="l2" char="ë̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -33624,7 +36484,7 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH MACRON AND BREVE">
-            <td class="l1" char="en">24</td>
+            <td class="l1" char="en">27</td>
             <td class="l2" char="ē̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -34954,10 +37814,10 @@
          <tr>
             <td class="char">
                <ul class="suml">
-                  <li class="sumchar">89</li>
-                  <li class="sl1">46</li>
-                  <li class="sl2">12</li>
-                  <li class="sl3">3</li>
+                  <li class="sumchar">695</li>
+                  <li class="sl1">301</li>
+                  <li class="sl2">102</li>
+                  <li class="sl3">27</li>
                </ul>
             </td>
             <td class="leveldesc" colspan="3">
@@ -34988,15 +37848,75 @@
                </ul>
             </td>
          </tr>
+         <tr title="LATIN SMALL LIGATURE FF">
+            <td class="l1" char="ff">1</td>
+            <td class="l2" char="ff">1</td>
+            <td class="l3" char="ﬀ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE FL">
+            <td class="l1" char="fl">1</td>
+            <td class="l2" char="fl">1</td>
+            <td class="l3" char="ﬂ">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S T">
+            <td class="l1" char="st">0</td>
+            <td class="l2" char="ſt">2</td>
+            <td class="l3" char="ﬅ">0</td>
+         </tr>
+         <tr title="LEFTWARDS ARROW">
+            <td class="l1" char="-">2</td>
+            <td class="l2" char="←">0</td>
+            <td class="l3" char="←">0</td>
+         </tr>
+         <tr title="RIGHTWARDS ARROW">
+            <td class="l1" char="-">2</td>
+            <td class="l2" char="→">0</td>
+            <td class="l3" char="→">0</td>
+         </tr>
+         <tr title="HYPHEN">
+            <td class="l1" char="-">2</td>
+            <td class="l2" char="‐">0</td>
+            <td class="l3" char="‐">0</td>
+         </tr>
+         <tr title="NON-BREAKING HYPHEN">
+            <td class="l1" char="-">2</td>
+            <td class="l2" char="‑">0</td>
+            <td class="l3" char="‑">0</td>
+         </tr>
+         <tr title="FIGURE DASH">
+            <td class="l1" char="-">2</td>
+            <td class="l2" char="‒">0</td>
+            <td class="l3" char="‒">0</td>
+         </tr>
+         <tr title="EN DASH">
+            <td class="l1" char="-">2</td>
+            <td class="l2" char="–">0</td>
+            <td class="l3" char="–">0</td>
+         </tr>
+         <tr title="GREEK CAPITAL LETTER THETA">
+            <td class="l1" char="Th">1</td>
+            <td class="l2" char="Θ">0</td>
+            <td class="l3" char="Θ">0</td>
+         </tr>
          <tr title="GREEK SMALL LETTER THETA">
             <td class="l1" char="th">1</td>
             <td class="l2" char="θ">0</td>
             <td class="l3" char="θ">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH CIRCUMFLEX">
-            <td class="l1" char="ei">3</td>
+            <td class="l1" char="ei">13</td>
             <td class="l2" char="î">0</td>
             <td class="l3" char="î">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER U WITH CIRCUMFLEX">
+            <td class="l1" char="au">3</td>
+            <td class="l2" char="û">0</td>
+            <td class="l3" char="û">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER THORN">
+            <td class="l1" char="Th">1</td>
+            <td class="l2" char="Þ">0</td>
+            <td class="l3" char="Þ">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER THORN">
             <td class="l1" char="th">1</td>
@@ -35004,54 +37924,134 @@
             <td class="l3" char="þ">0</td>
          </tr>
          <tr title="LATIN CAPITAL LETTER ENG">
-            <td class="l1" char="ng">1</td>
+            <td class="l1" char="ng">2</td>
             <td class="l2" char="Ŋ">0</td>
             <td class="l3" char="Ŋ">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER LONG S">
             <td class="l1" char="s">0</td>
-            <td class="l2" char="ſ">3</td>
-            <td class="l3" char="ſ">3</td>
+            <td class="l2" char="ſ">24</td>
+            <td class="l3" char="ſ">24</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AF">
+            <td class="l1" char="af">1</td>
+            <td class="l2" char="af">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AG">
+            <td class="l1" char="ag">2</td>
+            <td class="l2" char="ag">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE AL">
+            <td class="l1" char="al">2</td>
+            <td class="l2" char="al">2</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE AN">
-            <td class="l1" char="an">1</td>
-            <td class="l2" char="an">1</td>
+            <td class="l1" char="an">7</td>
+            <td class="l2" char="an">7</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE A SMALL CAPITAL N">
-            <td class="l1" char="an">1</td>
+            <td class="l1" char="an">7</td>
             <td class="l2" char="aɴ">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">3</td>
+            <td class="l2" char="ar">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LIGATURE CH">
-            <td class="l1" char="ch">3</td>
-            <td class="l2" char="ch">3</td>
+            <td class="l1" char="ch">17</td>
+            <td class="l2" char="ch">17</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE EY">
-            <td class="l1" char="ey">1</td>
-            <td class="l2" char="ey">1</td>
+            <td class="l1" char="ey">2</td>
+            <td class="l2" char="ey">2</td>
             <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE FT">
+            <td class="l1" char="ft">1</td>
+            <td class="l2" char="ft">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE F U WITH DIAERESIS">
+            <td class="l1" char="fü">3</td>
+            <td class="l2" char="fü">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LL">
+            <td class="l1" char="ll">1</td>
+            <td class="l2" char="ll">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE O R ROTUNDA">
+            <td class="l1" char="or">4</td>
+            <td class="l2" char="oꝛ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE OC">
+            <td class="l1" char="oc">1</td>
+            <td class="l2" char="oc">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S DESCENDING T">
+            <td class="l1" char="st">0</td>
+            <td class="l2" char="ſt">2</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S I">
             <td class="l1" char="si">0</td>
-            <td class="l2" char="ſi">1</td>
+            <td class="l2" char="ſi">3</td>
             <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S P">
+            <td class="l1" char="sp">0</td>
+            <td class="l2" char="ſp">1</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LIGATURE LONG S LONG S">
+            <td class="l1" char="ss">0</td>
+            <td class="l2" char="ſſ">3</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LIGATURE LONG S CH">
             <td class="l1" char="sch">0</td>
-            <td class="l2" char="ſch">2</td>
+            <td class="l2" char="ſch">9</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LIGATURE TT">
+            <td class="l1" char="tt">2</td>
+            <td class="l2" char="tt">2</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER E WITH OGONEK AND MACRON">
-            <td class="l1" char="en">4</td>
+            <td class="l1" char="en">35</td>
             <td class="l2" char="ę̄">0</td>
             <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER J WITH HIGH MACRON (ABOVE CHARACTER)">
+            <td class="l1" char="Jn">1</td>
+            <td class="l2" char="J̄">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER M WITH MEDIUM-HIGH OVERLINE (ABOVE CHARACTER)">
+            <td class="l1" char="m">0</td>
+            <td class="l2" char="m̅">2</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER THORN WITH ACUTE">
             <td class="l1" char="th">1</td>
             <td class="l2" char="þ́">0</td>
             <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN CAPITAL LETTER THORN WITH DOT BELOW">
+            <td class="l1" char="Th">1</td>
+            <td class="l2" char="Þ̣">0</td>
+            <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER THORN WITH DOT BELOW">
             <td class="l1" char="th">1</td>
@@ -35059,67 +38059,102 @@
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH LATIN SMALL LETTER I ABOVE">
-            <td class="l1" char="ei">3</td>
+            <td class="l1" char="ei">13</td>
             <td class="l2" char="eͥ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="ie">2</td>
+            <td class="l1" char="ie">11</td>
             <td class="l2" char="iͤ">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER E ABOVE">
-            <td class="l1" char="we">1</td>
+            <td class="l1" char="we">3</td>
             <td class="l2" char="wͤ">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER O ABOVE">
+            <td class="l1" char="wo">1</td>
+            <td class="l2" char="wͦ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER A ABOVE">
+            <td class="l1" char="wa">2</td>
+            <td class="l2" char="wͣ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
+         <tr title="LATIN SMALL LETTER W WITH LATIN SMALL LETTER U ABOVE">
+            <td class="l1" char="wu">3</td>
+            <td class="l2" char="wͧ">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER E WITH DIAERESIS AND MACRON">
-            <td class="l1" char="en">4</td>
+            <td class="l1" char="en">35</td>
             <td class="l2" char="ë̄">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN CAPITAL LETTER A WITH MACRON AND BREVE">
+            <td class="l1" char="An">1</td>
+            <td class="l2" char="Ā̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER A WITH MACRON AND BREVE">
-            <td class="l1" char="an">1</td>
+            <td class="l1" char="an">7</td>
             <td class="l2" char="ā̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER E WITH MACRON AND BREVE">
-            <td class="l1" char="en">4</td>
+            <td class="l1" char="en">35</td>
             <td class="l2" char="ē̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH MACRON AND BREVE">
-            <td class="l1" char="in">2</td>
+            <td class="l1" char="in">11</td>
             <td class="l2" char="ī̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN SMALL LETTER O WITH MACRON AND BREVE">
+            <td class="l1" char="on">1</td>
+            <td class="l2" char="ō̆">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER U WITH MACRON AND BREVE">
-            <td class="l1" char="un">2</td>
+            <td class="l1" char="un">3</td>
             <td class="l2" char="ū̆">0</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="LATIN CAPITAL LETTER A WITH MACRON AND ACUTE">
+            <td class="l1" char="An">1</td>
+            <td class="l2" char="Ā́">0</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="LATIN SMALL LETTER A WITH MACRON AND ACUTE">
-            <td class="l1" char="an">1</td>
+            <td class="l1" char="an">7</td>
             <td class="l2" char="ā́">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER I WITH MACRON AND ACUTE">
-            <td class="l1" char="in">2</td>
+            <td class="l1" char="in">11</td>
             <td class="l2" char="ī́">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="LATIN SMALL LETTER U WITH MACRON AND ACUTE">
-            <td class="l1" char="un">2</td>
+            <td class="l1" char="un">3</td>
             <td class="l2" char="ū́">0</td>
             <td class="l3" char="">0</td>
          </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE AN">
-            <td class="l1" char="an">1</td>
-            <td class="l2" char="an">1</td>
+            <td class="l1" char="an">7</td>
+            <td class="l2" char="an">7</td>
             <td class="l3" char="">0</td>
          </tr>
+         <tr title="COMBINING LATIN SMALL LIGATURE AR">
+            <td class="l1" char="ar">3</td>
+            <td class="l2" char="ar">3</td>
+            <td class="l3" char="">0</td>
+         </tr>
          <tr title="COMBINING LATIN SMALL LIGATURE A SMALL CAPITAL N">
-            <td class="l1" char="an">1</td>
+            <td class="l1" char="an">7</td>
             <td class="l2" char="aɴ">0</td>
             <td class="l3" char="">0</td>
          </tr>
@@ -35132,6 +38167,21 @@
             <td class="l1" char="th">1</td>
             <td class="l2" char="ᚦ">0</td>
             <td class="l3" char="ᚦ">0</td>
+         </tr>
+         <tr title="SUPERSCRIPT MINUS">
+            <td class="l1" char="-">2</td>
+            <td class="l2" char="⁻">0</td>
+            <td class="l3" char="⁻">0</td>
+         </tr>
+         <tr title="DOUBLE OBLIQUE HYPHEN">
+            <td class="l1" char="-">2</td>
+            <td class="l2" char="-">2</td>
+            <td class="l3" char="⸗">3</td>
+         </tr>
+         <tr title="DOUBLE HYPHEN">
+            <td class="l1" char="-">2</td>
+            <td class="l2" char="⹀">0</td>
+            <td class="l3" char="⹀">0</td>
          </tr>
       </table>
    </details>

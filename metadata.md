@@ -121,7 +121,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/bertsky/mygt/releases/tag/v0.0.2">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 2_v0.0.2</a>
+         <a href="https://github.com/bertsky/mygt/releases/tag/v0.0.6">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 7_v0.0.6</a>
       </li>
       <li>
          <a href="https://github.com/bertsky/mygt/releases">Version archive</a>
@@ -173,9 +173,9 @@ An image database</p>
       </thead>
       <tbody>
          <tr>
-            <td>2442</td>
-            <td>98</td>
-            <td>220</td>
+            <td>2605</td>
+            <td>104</td>
+            <td>231</td>
          </tr>
       </tbody>
    </table>

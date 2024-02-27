@@ -45,9 +45,9 @@
   "modelurl": "https://github.com/bertsky/mkn-kurrent-gt/releases/tag/v1.0.2",
   "modelengine": "OCR-D",
   "gtvolume": {
-    "TxtRegion": "220",
-    "TextLine": "2442",
-    "Page": "98"
+    "TxtRegion": "231",
+    "TextLine": "2605",
+    "Page": "104"
   },
   "labelling": [
     "content-type/corpus",
